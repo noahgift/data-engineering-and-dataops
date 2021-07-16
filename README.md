@@ -1,2 +1,4 @@
-# data-engineering-and-dataops
+# Data Engineering and DataOps
 Duke MIDS:  Data Engineering and DataOps Course
+
+
