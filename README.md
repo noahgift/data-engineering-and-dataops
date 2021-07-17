@@ -1,9 +1,9 @@
 # Data Engineering and DataOps
-Duke MIDS:  Data Engineering and DataOps Course
 
-## Contact & Bio
+Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://noahgift.com)
 
-[Duke MIDS Noah Gift]https://datascience.duke.edu/noah-gift
+* [Contact & Bio](https://datascience.duke.edu/noah-gift)
+* This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
 
 ### Course Description
 
