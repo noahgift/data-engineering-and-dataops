@@ -5,6 +5,9 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
 
+
+
+
 ### Course Description
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
