@@ -109,8 +109,9 @@ The discussion forums, written assignments, demo videos, and final project will 
 
 ### Projects (Individual)
 
-There are six individual project types that can be chosen from.  You must do four of them.  The deliverables for each project are:
+There are ten individual project types that can be chosen from.  You must do four of them.  If you are new to programming it is recommended you mostly stick to the label [General].
 
+The deliverables for each project are:
 
 * Github project with source code and README.md explaining project
 * Weekly 30-second demo and link to source code in progress via GitHub branch
@@ -124,7 +125,7 @@ There are six individual project types that can be chosen from.  You must do fou
 
 #### Project #1:  Continuous Delivery of Flask/FastAPI Data Engineering API on GCP/AWS/Azure [General]
 
-* Create a Google App Engine application using GCP Cloud Shell environment (or AWS Lambda)
+* Create a Google App Engine application using GCP Cloud Shell environment, or AWS Lambda, AWS Fargate
 * Push source code to Github
 * Configure Cloud Build to Deploy Changes on build
 * Create realistic API (reference here:  [Data Engineering: Chapter 5 aws chapter for pragmatic ai.](https://github.com/noahgift/pai-aws))
@@ -147,7 +148,7 @@ Reference Reading:  [Python for DevOps - Chapter 9 Cloud Computing](https://lear
 
 Reference Source Code: [DevOps SKlearn Microservice on Github](https://github.com/noahgift/container-revolution-devops-microservices)
 
-#### Project #3:  Cloud Map Reduce using Databricks Spark/EMR/Azure Spark
+#### Project #3:  Cloud Map Reduce using Databricks Spark/EMR/Azure Spark [Advanced]
 
 * Perform a Map/Reduce operation using Databrick Spark/EMR/Azure Spark
 * Read Chapter 16 in Python for Programmers and implement it on Azure using a free [Azure for Education](https://azure.microsoft.com/en-us/education/) account. 
@@ -155,7 +156,7 @@ Reference Source Code: [DevOps SKlearn Microservice on Github](https://github.co
 
 Reference Reading:  [Python for Programmers, First Edition - Chapter 16 Big Data: Hadoop, Spark, NoSQL and IoT](https://learning.oreilly.com/library/view/python-for-programmers/9780135231364/ch16.xhtml#ch16)
 
-#### Project #4:  Serverless Data Engineering Pipeline
+#### Project #4:  Serverless Data Engineering Pipeline [Advanced]
 
 * Reproduce the architecture of the example serverless data engineering project.
 * Enhance the project by extending the functionality of the NLP analysis:  adding entity extraction, key phrase extraction, or some other NLP feature.
@@ -165,11 +166,11 @@ Reference Media:  [Data Engineering with Python and AWS Lambda LiveLessons](http
 
 Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https://user-images.githubusercontent.com/58792/55354483-bae7af80-547a-11e9-9909-a5621251065b.png) (accessible transcript of diagram)
 
-#### Project #5:  Cloud SQL
+#### Project #5:  Cloud SQL [General]
 
-* Use a cloud SQL solution:  GCP Big Query
+* Use a cloud SQL solution such GCP Big Query, or AWS Athena to Query a Public Dataset and find a useful insight
 
-#### Project #6:  Small Data Engineering NLP and AI APIs with “No Code/Low Code”
+#### Project #6:  Small Data Engineering NLP and AI APIs with “No Code/Low Code” [General]
 
 * Scrape all of Hemingway’s writing from this website (or some other author):  http://gutenberg.ca/index.html (Can be manual or with Python)
 * Create Data Visualization summarizing what you learned.
@@ -177,10 +178,10 @@ Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https:
 * Example Walkthrough Video:  https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/
 * Example Repo:  [https://github.com/noahgift/exploratory-data-analysis](https://github.com/noahgift/exploratory-data-analysis)
 
-#### Project #7:  Create Data Engineering Command-line Tool 
+#### Project #7:  Create Data Engineering Command-line Tool [General]
 
 
-#### Project #8:  Create End to End Data Visualization Pipeline 
+#### Project #8:  Create End to End Data Visualization Pipeline [General]
 
 
 #### Project #9:  Publish Python Command-line Tool or Library to Python Package Repository [Advanced]
