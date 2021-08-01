@@ -5,9 +5,6 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
 
-
-
-
 ### Course Description
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
@@ -38,17 +35,12 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 #### Required Readings & Media
 
-
-
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * Gift, N (2020) _[Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)_ Sebastopol, CA: O'Reilly. [ISBN: 9781492057697]
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
 
-
 #### Supplementary Readings & Media
-
-
 
 * [DataCamp - CLI Automation Python](https://www.datacamp.com/courses/command-line-automation-in-python)
 * [AWS Training & Certification](https://www.aws.training/)
@@ -72,7 +64,6 @@ As educators and learners, we must share a commitment to diversity and equity, r
 **AWS**
 
 
-
 * AWS Cloud Practitioner
     * AWS Certified Cloud Practitioner Video Course: [https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/](https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/)
     * [https://learning.oreilly.com/library/view/cloud-computing-for/20201229PAIML/](https://learning.oreilly.com/library/view/cloud-computing-for/20201229PAIML/)
@@ -85,23 +76,16 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 **GCP**
 
-
-
 * Building AI Applications with GCP: [https://learning.oreilly.com/videos/building-ai-applications/9780135973462/](https://learning.oreilly.com/videos/building-ai-applications/9780135973462/)
 * Build GCP Cloud Functions:
 
     [https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/](https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/) 
 
-
 **Python**
-
-
 
 * Data Science, Pandas, and Colab
 
 [https://learning.oreilly.com/videos/python-for-data/62062021VIDEOPAIML/](https://learning.oreilly.com/videos/python-for-data/62062021VIDEOPAIML/) 
-
-
 
 * Python and DevOps  \
 [https://learning.oreilly.com/videos/python-devops-in/61272021VIDEOPAIML/](https://learning.oreilly.com/videos/python-devops-in/61272021VIDEOPAIML/) 
@@ -110,15 +94,11 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 **Linux and Systems Engineering**
 
-
-
 * Docker containers: \
 [https://learning.oreilly.com/videos/learn-docker-containers/50103VIDEOPAIML/](https://learning.oreilly.com/videos/learn-docker-containers/50103VIDEOPAIML/) 
 * Learn the Vim Text Editor:
 
     [https://learning.oreilly.com/videos/learn-vim-in/50100VIDEOPAIML/](https://learning.oreilly.com/videos/learn-vim-in/50100VIDEOPAIML/) 
-
-
 
 ### Assignment Overview and Grading Breakdown 
 
@@ -129,8 +109,7 @@ The discussion forums, written assignments, demo videos, and final project will 
 
 ### Projects (Individual)
 
-There are six individual project types that can be chosen from.  You must do two of them.  The deliverables for each project are:
-
+There are six individual project types that can be chosen from.  You must do four of them.  The deliverables for each project are:
 
 
 * Github project with source code and README.md explaining project
@@ -143,10 +122,7 @@ There are six individual project types that can be chosen from.  You must do two
     * The video should be at least 1080p with 16:9 aspect ratio.
     * Consider recording with a  low-cost mic like follows:  [Samson Go Mic Portable USB Condenser Microphone](https://www.amazon.com/Samson-Mic-Portable-Condenser-Microphone/dp/B001R76D42/)
 
-
-#### Project #1:  Continuous Delivery of Flask Data Engineering API on GCP/AWS/Azure
-
-
+#### Project #1:  Continuous Delivery of Flask/FastAPI Data Engineering API on GCP/AWS/Azure [General]
 
 * Create a Google App Engine application using GCP Cloud Shell environment (or AWS Lambda)
 * Push source code to Github
@@ -155,17 +131,12 @@ There are six individual project types that can be chosen from.  You must do two
 
 Reference Video(s):
 
-
-
 * [Data Engineering with Python and AWS Lambda LiveLessons](https://learning.oreilly.com/videos/data-engineering-with/9780135964330)
 * [Building AI & ML Applications on Google Cloud Platform](https://learning.oreilly.com/videos/building-ai-applications/9780135973462)
 
 Reference Source Code: [GCP Hello ML on Github](https://github.com/noahgift/gcp-hello-ml)
 
-
-#### Project #2:  Docker & Kubernetes Container Project
-
-
+#### Project #2:  Docker & Kubernetes Container Project [Advanced]
 
 * Create a customized Docker container from the current version of Python that deploys a python application
 * Push image to DockerHub or Amazon ECR or Google Container Registry
@@ -176,58 +147,54 @@ Reference Reading:  [Python for DevOps - Chapter 9 Cloud Computing](https://lear
 
 Reference Source Code: [DevOps SKlearn Microservice on Github](https://github.com/noahgift/container-revolution-devops-microservices)
 
+#### Project #3:  Cloud Map Reduce using Databricks Spark/EMR/Azure Spark
 
-#### Project #3:  Cloud Map Reduce
-
-
-
+* Perform a Map/Reduce operation using Databrick Spark/EMR/Azure Spark
 * Read Chapter 16 in Python for Programmers and implement it on Azure using a free [Azure for Education](https://azure.microsoft.com/en-us/education/) account. 
 * Port the example to run on either the GCP or AWS cloud
 
 Reference Reading:  [Python for Programmers, First Edition - Chapter 16 Big Data: Hadoop, Spark, NoSQL and IoT](https://learning.oreilly.com/library/view/python-for-programmers/9780135231364/ch16.xhtml#ch16)
 
-
 #### Project #4:  Serverless Data Engineering Pipeline
-
-
 
 * Reproduce the architecture of the example serverless data engineering project.
 * Enhance the project by extending the functionality of the NLP analysis:  adding entity extraction, key phrase extraction, or some other NLP feature.
 
 Reference Reading:  [AWS Lambda on Github](https://github.com/noahgift/awslambda)
-
 Reference Media:  [Data Engineering with Python and AWS Lambda LiveLessons](https://learning.oreilly.com/videos/data-engineering-with/9780135964330)
 
 Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https://user-images.githubusercontent.com/58792/55354483-bae7af80-547a-11e9-9909-a5621251065b.png) (accessible transcript of diagram)
 
+#### Project #5:  Cloud SQL
 
-#### Project #5:  Work Project
+* Use a cloud SQL solution:  GCP Big Query
 
+#### Project #6:  Small Data Engineering NLP and AI APIs with “No Code/Low Code”
 
-
-* Create a Data Engineering project based on a work or Capstone project
-
-
-#### Project #6:  Small Data Engineering with “No Code/Low Code”
-
-
-
-* Scrape all of Hemingway’s writing from this website:  http://gutenberg.ca/index.html (Can be manual or with Python)
+* Scrape all of Hemingway’s writing from this website (or some other author):  http://gutenberg.ca/index.html (Can be manual or with Python)
 * Create Data Visualization summarizing what you learned.
 * Create one-page in report, in Github using Markdown summarizing the point of the data visualization (give firm recommendation/conclusion)
 * Example Walkthrough Video:  https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/
 * Example Repo:  [https://github.com/noahgift/exploratory-data-analysis](https://github.com/noahgift/exploratory-data-analysis)
 
- 
+#### Project #7:  Create Data Engineering Command-line Tool 
 
+
+#### Project #8:  Create End to End Data Visualization Pipeline 
+
+
+#### Project #9:  Publish Python Command-line Tool or Library to Python Package Repository [Advanced]
+
+
+#### Project #10:  Recreate one of other Indivdual projects in a non-Python language [Advanced]
+
+* Use Go, Scala or a .NET Language (C# or F#) or Node.js
 
 ### Projects (Group)
 
 Your team will make a “bet” on a technique or technology in the free resources you have been exposed to.  Maybe you want to demo step by step how to train a Tensorflow model on a TPU on GCP, or how to train an RNN model using AWS Sagemaker.  Pick something you think will “move the needle” in the next two years.  Alumni of the program are counting on you to give them a demo of what skills they need to invest in.  Soon, you will be alumni and will be hoping other students will show you a demo of something that you can learn from in the coming years when you graduate.
 
 Create the following:
-
-
 
 * Github project with source code and README.md explaining the project your group works on.  The README.md should be of professional quality and use a business writing style.
 * Five-minute final demo video showing how it works.  This demo video should be submitted into group discussion for the week it is due.  This will allow other students to learn from each other and exchange ideas.
@@ -438,11 +405,7 @@ Create the following:
 
 Late work will be accepted only in the event of an instructor-approved absence. Contact your instructor as soon as possible, at least 24 hours in advance.
 
-
-
 ---
-
-
 
 ### Online Communication and Interaction Expectations
 
@@ -474,8 +437,6 @@ This course will involve a number of different types of interactions. These inte
 #### Required Technical Skills
 
 Students in an online program should be able to do the following: 
-
-
 
 * Communicate Teams discussion forums.
 * Use web browsers and navigate the World Wide Web.
@@ -804,7 +765,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Learning Objectives
 
 
-
 * Explain how monitoring and logging plays a critical role in Data Engineering.
 * Explain how Data Governance plays a critical role in Data Engineering.
 * Demo the progress for your individual project
@@ -814,7 +774,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ###### Media
-
 
 
 * Essential Machine Learning and AI with Python and Jupyter Notebook: 3.3 [Understand try/except logging](https://learning.oreilly.com/videos/essential-machine-learning/9780135261118/9780135261118-EMLA_01_03_03) (4 minutes 32 seconds)
@@ -1072,7 +1031,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 **1. Module Seven Discussion**
 
 
-
 * Explain what Machine Learning Engineering is
 * Create a simple docker file that runs a flask app.  Explain how it works.
 
@@ -1214,7 +1172,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ###### Required Readings
-
 
 
 * [Chapter 16, Python for DevOps:  DevOps War Stories and Interviews](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch16.html#DevOpsCaseStudies)
