@@ -109,7 +109,7 @@ The discussion forums, written assignments, demo videos, and final project will 
 
 ### Projects (Individual)
 
-There are ten individual project types that can be chosen from.  You must do four of them.  If you are new to programming it is recommended you mostly stick to the label [General].
+There are ten individual project types that can be chosen from.  You must do five of them.  If you are new to programming it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
 
 The deliverables for each project are:
 
@@ -187,13 +187,13 @@ Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https:
 #### Project #9:  Publish Python Command-line Tool or Library to Python Package Repository [Advanced]
 
 
-#### Project #10:  Recreate one of other Indivdual projects in a non-Python language [Advanced]
+#### Project #10:  Recreate one of other Individual projects in a non-Python language [Advanced]
 
 * Use Go, Scala or a .NET Language (C# or F#) or Node.js
 
 ### Projects (Group)
 
-Your team will make a “bet” on a technique or technology in the free resources you have been exposed to.  Maybe you want to demo step by step how to train a Tensorflow model on a TPU on GCP, or how to train an RNN model using AWS Sagemaker.  Pick something you think will “move the needle” in the next two years.  Alumni of the program are counting on you to give them a demo of what skills they need to invest in.  Soon, you will be alumni and will be hoping other students will show you a demo of something that you can learn from in the coming years when you graduate.
+Your team will make a “bet” on a technique or technology in the free resources you have been exposed to.  Maybe you want to demo step by step how to train a Tensorflow model on a TPU on GCP, or how to train an RNN model using AWS Sagemaker, or train a computer vision model using Apple CreateML and deploy it to an iOS device using only data you created from your iPhone.  Pick something you think will “move the needle” in the next two years and help you and your team get a high-paying job.  Alumni of the program are counting on you to give them a demo of what skills they need to invest in.  Soon, you will be alumni and will be hoping other students will show you a demo of something that you can learn from in the coming years when you graduate.
 
 Create the following:
 
