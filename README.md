@@ -1204,21 +1204,25 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 **Respond** to one other student by midnight on Sunday.  
 
 
-#### Module 10: Final Project Submission 
+#### Module 11,12,13: Workshop Final Project
+
+* In class demo of team projects (1-5 minute max)
+* Instructor gives feedback, teams improve project then present improvements the following week
+
+
+#### Module 14: Final Project(s) Submission 
 
 
 ##### Learning Objectives
 
-
-
 * Deploy your MVP on a cloud.
 * Explain trade-offs in the final product.
 * Describe the next steps in feature development.
-
+* Submit portfolio project
 
 ##### Assignments
 
-1. **Module Ten Discussion**
+1. **Module 14 Discussion**
 
 What did you like best about the class?  What would you change?
 
@@ -1229,24 +1233,4 @@ Respond to 2 other students.
 **Post by** midnight on Wednesday
 
 **Respond by** midnight on Sunday
-
-**2. Module Ten Demo Individual Project**
-
-Weekly Demo 1-5 minute screencast of your individual project progress
-
-**Post** in Demo Video Discussion by midnight on Friday.
-
-**Respond** to one other student by midnight on Sunday.  
-
-**3. Module Ten Demo Group Project**
-
-Weekly Demo 1-5 minute screencast of your individual project progress
-
-**Post** in Demo Video Discussion by midnight on Friday.
-
-**Respond** to one other student by midnight on Sunday.  
-
-
-
-
 
