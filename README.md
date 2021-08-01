@@ -46,11 +46,11 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
 
 
-#### Supplementary0 Readings & Media
+#### Supplementary Readings & Media
 
 
 
-* [DataCamp - Data Engineer Track](https://www.datacamp.com/tracks/data-engineer-with-python)
+* [DataCamp - CLI Automation Python](https://www.datacamp.com/courses/command-line-automation-in-python)
 * [AWS Training & Certification](https://www.aws.training/)
 * [AWS Educate](https://www.awseducate.com/educator/s/pathways)
 * [AWS Academy](https://aws.amazon.com/training/awsacademy/)
