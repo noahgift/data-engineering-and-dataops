@@ -9,7 +9,6 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
 
-
 ## Course Objectives
 
 By the end of the course, you will be able to:
@@ -36,7 +35,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 #### Required Readings & Media
 
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
-* Gift, N (2020) _[Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)_ Sebastopol, CA: O'Reilly. [ISBN: 9781492057697]
+* Gift, N (2020) [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)_ Sebastopol, CA: O'Reilly. [ISBN: 9781492057697]
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
 
@@ -55,14 +54,12 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * Learn Python in One Hour:  [https://learning.oreilly.com/videos/learn-python-in/60645VIDEOPAIML/](https://learning.oreilly.com/videos/learn-python-in/60645VIDEOPAIML/)
 * Cloud Computing with Python: [https://learning.oreilly.com/videos/cloud-computing-with/60650VIDEOPAIML/](https://learning.oreilly.com/videos/cloud-computing-with/60650VIDEOPAIML/)
 * Python for Data Science with Colab and Pandas in One Hour:  [https://learning.oreilly.com/videos/python-for-data/62062021VIDEOPAIML/](https://learning.oreilly.com/videos/python-for-data/62062021VIDEOPAIML/)
-* 
 * GCP Cloud Functions: \
 [https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/](https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/) 
 * Azure AutoML \
 [https://learning.oreilly.com/videos/learn-azure-ml/50104VIDEOPAIML/](https://learning.oreilly.com/videos/learn-azure-ml/50104VIDEOPAIML/) 
 
 **AWS**
-
 
 * AWS Cloud Practitioner
     * AWS Certified Cloud Practitioner Video Course: [https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/](https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/)
@@ -109,7 +106,7 @@ The discussion forums, written assignments, demo videos, and final project will 
 
 ### Projects (Individual)
 
-There are ten individual project types that can be chosen from.  You must do five of them.  If you are new to programming it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
+There are ten individual project types that can be chosen from.  You must do five of them.  If you are new to programming, and/or a beginning MIDS student, it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
 
 The deliverables for each project are:
 
@@ -125,17 +122,22 @@ The deliverables for each project are:
 
 #### Project #1:  Continuous Delivery of Flask/FastAPI Data Engineering API on GCP/AWS/Azure [General]
 
-* Create a Google App Engine application using GCP Cloud Shell environment, or AWS Lambda, AWS Fargate
-* Push source code to Github
-* Configure Cloud Build to Deploy Changes on build
+* Create a Microservice that returns a JSON payload and performs a Data Engineering related task
+* Push tested source code to Github and perform Continuous Integration with Github Actions (or similar SaaS Build service)
+* Configure Build Server to Deploy Changes on build (Continuous Delivery)
 * Create realistic API (reference here:  [Data Engineering: Chapter 5 aws chapter for pragmatic ai.](https://github.com/noahgift/pai-aws))
 
-Reference Video(s):
+Reference Video(s)/Courses:
 
 * [Data Engineering with Python and AWS Lambda LiveLessons](https://learning.oreilly.com/videos/data-engineering-with/9780135964330)
 * [Building AI & ML Applications on Google Cloud Platform](https://learning.oreilly.com/videos/building-ai-applications/9780135973462)
 
-Reference Source Code: [GCP Hello ML on Github](https://github.com/noahgift/gcp-hello-ml)
+Reference Source Code: 
+
+* [GCP Hello ML on Github](https://github.com/noahgift/gcp-hello-ml)
+* [Flask-Elastic-Beanstalk](https://github.com/noahgift/Flask-Elastic-Beanstalk)
+* [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+* [FastAPI](https://learning.oreilly.com/videos/fast-documented-machine/50117VIDEOPAIML/)
 
 #### Project #2:  Docker & Kubernetes Container Project [Advanced]
 
@@ -144,9 +146,17 @@ Reference Source Code: [GCP Hello ML on Github](https://github.com/noahgift/gcp-
 * Pull image down and run it on a cloud platform cloud shell:  Google Cloud Shell or AWS Cloud9.
 * Deploy an application to managed Kubernetes cluster
 
-Reference Reading:  [Python for DevOps - Chapter 9 Cloud Computing](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#containers-docker)
+Reference Reading:  
 
-Reference Source Code: [DevOps SKlearn Microservice on Github](https://github.com/noahgift/container-revolution-devops-microservices)
+* [Python for DevOps - Chapter 9 Cloud Computing](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#containers-docker)
+* [MLOps for Containers and Edge Devices](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch03.html#Section-containers)
+
+Reference Source Code: 
+
+* [DevOps SKlearn Microservice on Github](https://github.com/noahgift/container-revolution-devops-microservices)
+* [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+* [Docker Flask Locust](https://github.com/noahgift/docker-flask-locust)
+* [Container From Scratch](https://github.com/noahgift/container-from-scratch-python)
 
 #### Project #3:  Cloud Map Reduce using Databricks Spark/EMR/Azure Spark [Advanced]
 
@@ -168,7 +178,12 @@ Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https:
 
 #### Project #5:  Cloud SQL [General]
 
-* Use a cloud SQL solution such GCP Big Query, or AWS Athena to Query a Public Dataset and find a useful insight
+Use a cloud SQL solution such GCP Big Query, or AWS Athena to Query a Public Dataset and find a useful insight.
+
+Reference Reading:
+
+* [BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-getting-started)
+
 
 #### Project #6:  Small Data Engineering NLP and AI APIs with “No Code/Low Code” [General]
 
@@ -180,16 +195,50 @@ Reference Architecture Diagram: [Serverless AI Data Engineering Pipeline](https:
 
 #### Project #7:  Create Data Engineering Command-line Tool [General]
 
+Create a CLI tool in Python that does a data engineering task
+
+Reference Reading: 
+
+* [CLI Tools]https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch11.html#idm45713973322232
+* [Python CLI Tools](https://paiml.com/docs/home/books/python-command-line-tools/)
+* [Optimizing EC2 Instances](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch09.xhtml#ch09lev1sub1)
+* [Command Line Tools Python-Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch03.html#idm46114720418584)
+
+Reference Source Code: 
+* [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook
+* [Data Engineering API](https://github.com/noahgift/pai-aws)
 
 #### Project #8:  Create End to End Data Visualization Pipeline [General]
 
+Using your scripting skills create an end-to-end automated data pipelines that visualizes a useful dataset.  
+
+
+* [Exploring Real-Estate Values](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch10.xhtml#ch10lev1)
+* [Data Science Pandas](https://paiml.com/docs/home/books/minimal-python/chapter07-data-science-pandas/)
+* [Collecting NBA Data](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/part03.xhtml)
+
+Reference Source Code: 
+
+* [Real Estate ML]https://github.com/noahgift/real_estate_ml
+* [Covid Explore](https://github.com/paiml/minimal-python/blob/master/Chapter7_data_science.ipynb)
 
 #### Project #9:  Publish Python Command-line Tool or Library to Python Package Repository [Advanced]
+
+Create a useful CLI tool that solves a data engineering related problem
+
+Reference Reading: 
+
+* [Packaging in Python](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch05.html#idm46114712983992)
+* [Finding Project Management Insights with Github](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch08.xhtml#ch08lev1)
 
 
 #### Project #10:  Recreate one of other Individual projects in a non-Python language [Advanced]
 
-* Use Go, Scala or a .NET Language (C# or F#) or Node.js
+Use Go, Scala or a .NET Language (C# or F#) or Node.js to solve a data engineering problem.  My recommendation would be to focus on a functional programming style.
+
+Reference Reading: 
+
+* [F Sharp Map Reduce](https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/april/msdn-magazine-mapreduce-in-fsharp-parsing-log-files-with-fsharp-mapreduce-and-microsoft-azure)
 
 ### Projects (Group)
 
@@ -206,6 +255,10 @@ Create the following:
     * Create a post with a link to source code and video and share via Linkedin.  Add the following hashtags:  #Duke #dataengineering #mids
     * The video should be at least 1080p with 16:9 aspect ratio.
     * Consider recording with a  low-cost mic like follows:  [Samson Go Mic Portable USB Condenser Microphone](https://www.amazon.com/Samson-Mic-Portable-Condenser-Microphone/dp/B001R76D42/)
+
+References:
+
+* [AutoML and KazienML](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch05.html#idm45713986170936)
 
 <table>
   <tr>
