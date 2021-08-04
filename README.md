@@ -5,7 +5,6 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
 
-
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
 ### Course Description
@@ -33,14 +32,13 @@ Basic programming skills as well as basic linux skills.  See optional readings/m
 As educators and learners, we must share a commitment to diversity and equity, removing barriers to education so that everyone may participate fully in the community. In this course, we respect and embrace the unique experiences that brought each person here, including backgrounds, identities, learning styles, ways of expression, and academic interests. The broad spectrum of perspectives represented by our students enrich everyone’s experiences, and we strive to meet each perspective with openness and respect.
 
 ### Required and Optional Readings and Resources 
-
-
 #### Required Readings & Media
 
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * Gift, N (2020) [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)_ Sebastopol, CA: O'Reilly. [ISBN: 9781492057697]
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
+* Gift, N (2020) [Pragmatic AI:  An Introduction to Cloud-Based Machine Learning](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/)
 
 #### Supplementary Readings & Media
 
@@ -62,7 +60,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * Azure AutoML \
 [https://learning.oreilly.com/videos/learn-azure-ml/50104VIDEOPAIML/](https://learning.oreilly.com/videos/learn-azure-ml/50104VIDEOPAIML/) 
 
-**AWS**
+##### AWS
 
 * AWS Cloud Practitioner
     * AWS Certified Cloud Practitioner Video Course: [https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/](https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/)
@@ -74,14 +72,14 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * AWS SA
     * [https://learning.oreilly.com/videos/aws-solutions-architect/61132021VIDEOPAIML/](https://learning.oreilly.com/videos/aws-solutions-architect/61132021VIDEOPAIML/)
 
-**GCP**
+##### GCP
 
 * Building AI Applications with GCP: [https://learning.oreilly.com/videos/building-ai-applications/9780135973462/](https://learning.oreilly.com/videos/building-ai-applications/9780135973462/)
 * Build GCP Cloud Functions:
 
     [https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/](https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/) 
 
-**Python**
+##### Python
 
 * Data Science, Pandas, and Colab
 
@@ -92,7 +90,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * Python Command-line Tools \
 [https://learning.oreilly.com/videos/learn-python-command-line/50102VIDEOPAIML/](https://learning.oreilly.com/videos/learn-python-command-line/50102VIDEOPAIML/) 
 
-**Linux and Systems Engineering**
+##### Linux and Systems Engineering
 
 * Docker containers: \
 [https://learning.oreilly.com/videos/learn-docker-containers/50103VIDEOPAIML/](https://learning.oreilly.com/videos/learn-docker-containers/50103VIDEOPAIML/) 
@@ -105,9 +103,6 @@ As educators and learners, we must share a commitment to diversity and equity, r
 Grading and feedback turnaround will be one week from the due date. You will be notified if the turnaround will be longer than one week. 
 
 The discussion forums, written assignments, demo videos, and final project will be graded based on specific criteria or a rubric. The criteria or rubric for each type of assessment will be available in the course. To view the discussion forum rubric, click the gear icon in the upper right corner of the page and choose Show Rubric. The Written Assignment Rubric and Final Project Rubric will automatically appear on the page. 
-
-
-
 
 <table>
   <tr>
@@ -136,8 +131,6 @@ The discussion forums, written assignments, demo videos, and final project will 
    </td>
   </tr>
 </table>
-
-
 
 <table>
   <tr>
@@ -303,22 +296,16 @@ The discussion forums, written assignments, demo videos, and final project will 
 </table>
 
 
-
 #### Late Work Policy 
 
 Late work will be accepted only in the event of an instructor-approved absence. Contact your instructor as soon as possible, at least 24 hours in advance.
 
----
-
 ### Online Communication and Interaction Expectations
-
-
 #### Discussion Forums 
 
 The purpose of the discussion boards is to allow students to freely exchange ideas. It is imperative to remain respectful of all viewpoints and positions and, when necessary, agree to respectfully disagree. While active and frequent participation is encouraged, cluttering a discussion board with inappropriate, irrelevant, or insignificant material will not earn additional points and may result in receiving less than full credit. Frequency matters, but contributing content that adds value is paramount. Please remember to cite all sources—when relevant—in order to avoid plagiarism. Please post your viewpoints first and then discuss others’ viewpoints. 
 
 The quality of your posts and how others view and respond to them are the most valued. A single statement mostly implying “I agree” or “I do not agree” is not counted as a post. Explain, clarify, politely ask for details, provide details, persuade, and enrich communications for a great discussion experience. Please note, there is a requirement to respond to at least two fellow class members’ posts. Also, remember to cite all sources—when relevant—in order to avoid plagiarism.
-
 
 #### Online Communication Etiquette
 
@@ -326,16 +313,13 @@ Beyond interacting with your instructor and peers in discussions, you will be ex
 
 Just as you expect a response when you send a message to your instructor, please respond promptly when your instructor contacts you. Your instructor will expect a response within two business days. This will require that you log into the course site regularly and set up your notifications to inform you when the instructor posts an announcement, provides feedback on work or sends you a message. 
 
-
 #### Participation and Attendance 
 
 This course will not meet at a particular time each week. All course goals, session learning objectives, and assessments are supported through classroom elements that can be accessed at any time. To measure class participation (or attendance), your participation in threaded discussion boards is required, graded, and paramount to your success in this course. Please note that any scheduled synchronous meetings are optional. While your attendance is highly encouraged, it is not required and you will not be graded on your attendance or participation.
 
-
 ### Course Technology
 
 This course will involve a number of different types of interactions. These interactions will take place primarily through Microsoft Teams. Please take the time to navigate through the course and become familiar with the course syllabus, structure, and content and review the list of resources below. 
-
 
 #### Required Technical Skills
 
@@ -347,7 +331,6 @@ Students in an online program should be able to do the following:
 * Use Teams
 * Use applications to create documents and presentations (e.g., Microsoft Word, PowerPoint).
 * Use applications to share files (e.g., Box, Google Drive).
-
 
 #### Required Digital Literacy Skills
 
@@ -370,11 +353,8 @@ Students in this online course should be able to do the following:
 * Follow directions to engage with a remote proctor by text, webcam, and audio.
 * Use a video player to review content, including pausing and restarting video.
 
-
 ### Course Schedule 
-
 #### Module 1: Create a life-long learning plan
-
 ##### Learning Objectives
 
 * Develop non-linear life-long learning skills
@@ -384,6 +364,7 @@ Students in this online course should be able to do the following:
 ##### Readings & Media
 ###### Required Readings
 
+* [Practical MLOps-Appendix-A-Through-H](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app01.html)
 * [Udemy and the Empire of Skills](https://www.forbes.com/sites/michaelbernick/2018/11/14/udemy-and-the-empire-of-skills/)
 * [It’s time for a C-Level Role dedicated to reskilling workers](https://hbr.org/2019/09/its-time-for-a-c-level-role-dedicated-to-reskilling-workers)  
 * [Exploiting the Unbundling of education](https://www.forbes.com/sites/forbestechcouncil/people/noahgift/#32324ee8f5fb)
@@ -391,21 +372,25 @@ Students in this online course should be able to do the following:
 
 ###### Media
 
+* [Coursera Cloud Computing Foundations-Getting Started with Cloud Computing Foundations
+-Week1](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/1)
+* [Coursera Cloud Computing Foundations-Developing Effective Technical Communication-Week2](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/2)
 * [AWS Resources available to students and teachers](https://www.youtube.com/watch?v=VeWGNn_qHJQ) (7 minutes 4 seconds)
 * [Education and Jobs Mismatch](https://www.youtube.com/watch?v=3fNcUwfswiY) (6 minutes 42 seconds)
 * [Innovation in Education, AWS Reinvent 2019](https://youtu.be/QuIphFx2jIg) (58 minutes 40 seconds)
 
-##### Assignments
+#### Assignments
 
-**1.  Introduction Discussion (Due Week 1)**
+#### Week 1
+
+###### Introduction Demo (Due Week 1)
 
 Create a video to introduce yourself using one of the screencast tools listed in the Getting Started module. Please refer to the instructional and tutorial resources in the Getting Started module to create your video. 
 
 **Post** in Demo Video Discussion by midnight on Wednesday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-**2.** **Module One Discussion**
+###### Module One Discussion
 
 ## Create a life-long learning plan by answering the following questions:
 
@@ -419,10 +404,9 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday 
 
-**3. Module One Demo Video Assignment **
+###### Module One Demo Video Assignment 
 
 Create accounts with ALL of the following FREE online education resources:
 
@@ -432,18 +416,17 @@ Create accounts with ALL of the following FREE online education resources:
 * [AWS Academy](https://aws.amazon.com/training/awsacademy/)
 * [Google Qwiklabs - Hands-On Cloud Training](https://www.qwiklabs.com/)
 * [Coursera](https://www.coursera.org/)
-    * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) (request access from instructor)
-    * Cloud Computing for Data
+    * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+    * [Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-* [edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+* [edX Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
 
 Choose the course offering that starts with the letter closest to the first letter of your last name.  If there is a tie (i.e. AWS Educate and AWS Training), pick which one you want.  Take any course they offer, and demo what you learned in a 1-5 minute video.  Explain how this will help you achieve one of the life-learning goals you set in the previous discussion.
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-#### Module 2A: Cloud Onboard
+#### Week 2:  Cloud Onboard
 ##### Learning Objectives
 
 * Summarize the fundamentals of cloud computing
@@ -455,7 +438,7 @@ Choose the course offering that starts with the letter closest to the first lett
 
 * [Getting Started](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/)
 
-###### Labs
+###### Media
 
 * [GCP Essentials Qwiklabs](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D)
 * AWS Academy CloudFoundations: Introduction to EC2, Working with EBS, Build your VPC and Launch a Web Server
