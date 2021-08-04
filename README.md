@@ -506,8 +506,6 @@ In order to be successful in an online course, students should be able to locate
 
 Students in this online course should be able to do the following: 
 
-
-
 * Create, name, compose, upload, and attach documents.
 * Download, modify, upload, attach document templates.
 * Create, name, design, and upload presentations.
@@ -526,40 +524,27 @@ Students in this online course should be able to do the following:
 
 ### Course Schedule 
 
-
 #### Module 1: Create a life-long learning plan
 
-
 ##### Learning Objectives
-
-
 
 * Develop non-linear life-long learning skills
 * Create educational accounts with AWS and Google and Azure
 * Create a life-long learning plan
 
-
 ##### Readings & Media
-
-
 ###### Required Readings
-
-
 
 * [Udemy and the Empire of Skills](https://www.forbes.com/sites/michaelbernick/2018/11/14/udemy-and-the-empire-of-skills/)
 * [It’s time for a C-Level Role dedicated to reskilling workers](https://hbr.org/2019/09/its-time-for-a-c-level-role-dedicated-to-reskilling-workers)  
 * [Exploiting the Unbundling of education](https://www.forbes.com/sites/forbestechcouncil/people/noahgift/#32324ee8f5fb)
 * [Goal Setting: A Scientific Guide to Setting and Achieving Goals](https://jamesclear.com/goal-setting)
 
-
 ###### Media
-
-
 
 * [AWS Resources available to students and teachers](https://www.youtube.com/watch?v=VeWGNn_qHJQ) (7 minutes 4 seconds)
 * [Education and Jobs Mismatch](https://www.youtube.com/watch?v=3fNcUwfswiY) (6 minutes 42 seconds)
 * [Innovation in Education, AWS Reinvent 2019](https://youtu.be/QuIphFx2jIg) (58 minutes 40 seconds)
-
 
 ##### Assignments
 
@@ -573,10 +558,7 @@ Create a video to introduce yourself using one of the screencast tools listed in
 
 **2.** **Module One Discussion**
 
-
 ## Create a life-long learning plan by answering the following questions:
-
-
 
 * What skills are you going to learn this quarter, why and how?
 * What skills are you going to learn by the end of this year, why and how?
@@ -595,8 +577,6 @@ Respond to 2 other students.
 
 Create accounts with ALL of the following FREE online education resources:
 
-
-
 * [DataCamp - Data Engineer Track](https://www.datacamp.com/tracks/data-engineer-with-python)
 * [AWS Training & Certification](https://www.aws.training/)
 * [AWS Educate](https://www.awseducate.com/educator/s/pathways)
@@ -614,43 +594,27 @@ Choose the course offering that starts with the letter closest to the first lett
 
 **Respond** to one other student by midnight on Sunday.  
 
-
 #### Module 2A: Cloud Onboard
-
-
 ##### Learning Objectives
-
-
 
 * Summarize the fundamentals of cloud computing
 * Evaluate the economics of cloud computing
 * Onboard to Cloud
 
-
 ##### Readings & Media
-
-
 ###### Required Readings
-
-
 
 * [Getting Started](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/)
 
-
 ###### Labs
-
-
 
 * [GCP Essentials Qwiklabs](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D)
 * AWS Academy CloudFoundations: Introduction to EC2, Working with EBS, Build your VPC and Launch a Web Server
 * [Microsoft Learn: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 
-
 ##### Assignments
 
 **1. Module Two-A Discussion**
-
-
 
 * What are the problems solved economically by cloud computing vs traditional infrastructure?
 * What skills are you going to learn by the end of this year, why and how?
@@ -679,25 +643,15 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 ##### Learning Objectives
 
-
-
 * Evaluate different cloud service paradigms (IaaS, MaaS,PaaS, SaaS, serverless) and choose the correct paradigm for the problem at hand.
 * Compose IAC (Infrastructure as Code) solutions
 
-
 ##### Readings & Media
-
-
 ###### Required Readings
-
-
 
 * [Cloud Computing Foundations](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter02-cloud-foundations/)
 
-
 ###### Labs
-
-
 
 * [Terraform Fundamentals](https://www.qwiklabs.com/focuses/1208?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2850927)
 
@@ -705,7 +659,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Two Discussion**
-
 
 
 * What is IAC and what problem does it solve?
@@ -722,21 +675,13 @@ Respond to 2 other students.
 
 
 #### Module 2C: No Code/Low Code Small Data Engineering
-
-
 ##### Learning Objectives
-
-
 
 * Evaluate “small” data engineering approaches
 * Compose solutions to problems without writing code
 
-
 ##### Readings & Media
-
-
 ###### Required Readings
-
 
 
 * No Code/Low Code Video:  https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/
@@ -746,8 +691,6 @@ Respond to 2 other students.
 ##### Assignments
 
 **1. Module Two Discussion**
-
-
 
 * Why would it be a good idea to write less code in the real world?
 * What is an example of a big data library in Python and what is an example of a small data library in Python and when would you use each one and why?
@@ -762,21 +705,14 @@ Respond to 2 other students.
 
 
 #### Module 2D: Project Demo & Continuous Delivery
-
-
 ##### Learning Objectives
-
-
 
 * Explain how continuous integration and delivery improves software development speed and quality.
 * Demo the plan for your individual project
 
 
 ##### Readings & Media
-
-
 ###### Required Readings
-
 
 
 * [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
@@ -789,8 +725,6 @@ Respond to 2 other students.
 ##### Assignments
 
 **1. Module Two Discussion**
-
-
 
 * What problems does a continuous delivery system solve?
 * Why is a continuous delivery system an essential part of Data Engineering?
@@ -835,8 +769,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 ###### Required Readings
 
-
-
 * [Chapter 7, Python for DevOps:  Monitoring and Logging](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch07.html#Monitoring-and-logging)
 * [Implementing health checks](https://d1.awsstatic.com/builderslibrary/pdfs/implementing-health-checks.pdf)
 * [Instrumenting distributed systems for operational visibility](https://d1.awsstatic.com/builderslibrary/pdfs/instrumenting-distributed-systems-for-operational-visibility.pdf)
@@ -847,8 +779,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Three Discussion**
-
-
 
 * Explain how monitoring and logging plays a critical role in Data Engineering.
 * Explain what can go wrong with health checks.
@@ -876,26 +806,16 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 ##### Learning Objectives
 
-
-
 * Explain how testing plays a critical role in Data Engineering.
 * Understand how to automate projects with Command Line tools
 * Demo the progress for your individual project
 
-
 ##### Readings & Media
-
-
 ###### Media
-
-
 
 * Datacamp course:  [Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python) (4 hours)
 
-
 ###### Required Readings
-
-
 
 * [Chapter 8, Python for DevOps:  Pytest for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch08.html#idm45505451941256)
 * [Chapter 3, Python for DevOps:  Working with the Command Line](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch03.html)
@@ -904,8 +824,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Four Discussion**
-
-
 
 * Explain how testing plays a critical role in Data Engineering.
 * Explain how automation and testing are so closely connected.
@@ -929,10 +847,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 5: Project Demo & Cloud Computing
-
-
 ##### Learning Objectives
-
 
 
 * Explain how Cloud Computing is impacting Data Engineering.
@@ -941,11 +856,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ##### Readings & Media
-
-
 ###### Media
-
-
 
 * Vocareum Data Analytics Labs:
     * Store data in Amazon S3
@@ -957,10 +868,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 ###### Required Readings
 
-
-
 * [Chapter 9, Python for DevOps:  Cloud Computing](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#CloudComputing)
-
 
 ##### Assignments
 
@@ -984,14 +892,8 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 **Respond** to one other student by midnight on Sunday.  
 
- 
-
-
 #### Module 6: Project Demo & Serverless
-
-
 ##### Learning Objectives
-
 
 
 * Explain how Serverless is impacting Data Engineering
@@ -1000,11 +902,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ##### Readings & Media
-
-
 ###### Media
-
-
 
 * Vocareum Data Analytics Labs:
     * Query Data in Amazon Athena
@@ -1014,17 +912,12 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 ###### Required Readings
 
-
-
 * [Chapter 13, Python for DevOps:  Serverless](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch13.html#serverless)
 * [Chapter 5, Pragmatic AI:  Cloud AI Development with Amazon Web Services](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch05.xhtml#ch05lev1sub2)
 
 
 ##### Assignments
-
 **1. Module Six Discussion**
-
-
 
 * Explain how Serverless is impacting Data Engineering.
 * Share a simple Python AWS Lambda function and explain what it does.
@@ -1044,35 +937,21 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 **Post** in Demo Video Discussion by midnight on Friday.
 
 **Respond** to one other student by midnight on Sunday.  
-
-
 #### Module 7: Project Demo & MLOps and Machine Learning Engineering
-
-
 ##### Learning Objectives
-
-
 
 * Explain what Machine Learning Engineering is
 * Explain Container technology
 * Demo the progress for your individual project
 
-
 ##### Readings & Media
-
-
 ###### Media
-
-
 
 * Vocareum Data Analytics Labs:
     * Analyze Data with Amazon Redshift
     * Analyze Data with Amazon Sagemaker, Jupyter Notebooks and Bokeh
 
-
 ###### Required Readings
-
-
 
 * [Chapter 11, Python for DevOps: Container Technologies](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch11.html#containers-docker)
 * [Chapter 12, Python for DevOps: Container Orchestration](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch12.html#containers-kubernetes)
@@ -1083,7 +962,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Seven Discussion**
-
 
 * Explain what Machine Learning Engineering is
 * Create a simple docker file that runs a flask app.  Explain how it works.
@@ -1104,24 +982,15 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 **Respond** to one other student by midnight on Sunday.  
 
-
 #### Module 8: Project Demo & Data Engineering
-
-
 ##### Learning Objectives
-
-
 
 * Explain what Data Engineering is
 * Demo the progress for your individual project
 
 
 ##### Readings & Media
-
-
 ###### Media
-
-
 
 * Vocareum Data Analytics Labs:
     * Automate Loading Data with the AWS Data Pipeline
@@ -1130,17 +999,12 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ###### Required Readings
-
-
-
 * [Chapter 15, Python for DevOps:  Data Engineering](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch14.html#mlengineering)
 
 
 ##### Assignments
 
 **1. Module Eight Discussion**
-
-
 
 * Explain what Data Engineering is
 * Truncate and shuffle a large dataset, load into pandas and share your work.  Explain the approach you used.
@@ -1163,11 +1027,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 9: Project Demo & DevOps & Teamwork
-
-
 ##### Learning Objectives
-
-
 
 * Explain what DevOps is and how it can be used to enhance a Data Engineering project
 * Explore teamwork
@@ -1175,10 +1035,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ##### Readings & Media
-
-
 ###### Required Readings
-
 
 
 * [Chapter 16, Python for DevOps:  DevOps War Stories and Interviews](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch16.html#DevOpsCaseStudies)
@@ -1187,7 +1044,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Nine Discussion**
-
 
 
 * Explain what DevOps is and how it can be used to enhance a Data Engineering project
@@ -1211,10 +1067,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 10: Project Demo & DevOps & Teamwork
-
-
 ##### Learning Objectives
-
 
 
 * Explain what DevOps is and how it can be used to enhance a Data Engineering project
@@ -1223,8 +1076,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ##### Readings & Media
-
-
 ###### Required Readings
 
 
@@ -1234,7 +1085,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Assignments
 
 **1. Module Nine Discussion**
-
 
 
 * Explain what DevOps is and how it can be used to enhance a Data Engineering project
@@ -1264,8 +1114,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 14: Final Project(s) Submission 
-
-
 ##### Learning Objectives
 
 * Deploy your MVP on a cloud.
