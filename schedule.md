@@ -100,7 +100,7 @@ Choose the course offering that starts with the letter closest to the first lett
 
 ##### Assignments
 
-**1. Module Two-A Discussion**
+###### Module Two-Discussion**
 
 * What are the problems solved economically by cloud computing vs traditional infrastructure?
 * What skills are you going to learn by the end of this year, why and how?
@@ -115,7 +115,7 @@ Respond to 2 other students.
 
 **Respond by** midnight on Sunday
 
-**2. Module Two Demo Video Assignment **
+###### Module Two Demo Video Assignment **
 
 Weekly Demo 1-5 minute screencast of your individual project progress
 
