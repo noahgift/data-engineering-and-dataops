@@ -86,7 +86,6 @@ Choose the course offering that starts with the letter closest to the first lett
 ###### Required Readings
 
 * [Cloud Computing For Data: Chapter1-Getting Started](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/)
-* [Python for DevOps: Chapter9-Cloud Computing Foundations](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#idm46114706789704)
 * [Practical MLOps: Chapter1-Introduction to MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch01.html#idm45713993624152)
 * [Practical MLOps: Chapter2-MLOps-Foundations](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch02.html#idm45713993528008)
 
@@ -120,13 +119,10 @@ Respond to 2 other students.
 Weekly Demo 1-5 minute screencast of your individual project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-
-#### Module 2B: Cloud Foundations
-
-
+## [Week 3](#week-3)
+#### Module 3: Cloud Foundations
 ##### Learning Objectives
 
 * Evaluate different cloud service paradigms (IaaS, MaaS,PaaS, SaaS, serverless) and choose the correct paradigm for the problem at hand.
@@ -135,17 +131,19 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Readings & Media
 ###### Required Readings
 
+* [Python for DevOps: Chapter9-Cloud Computing Foundations](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#idm46114706789704)
 * [Cloud Computing Foundations](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter02-cloud-foundations/)
+* [Pragmatic AI: Chapter2-AI and ML Toolchain](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch02.xhtml#ch02lev1)
 
-###### Labs
+###### Media
 
+* * [Coursera Cloud Computing Foundations-Evaluating the Cloud Service Model
+-Week4](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/4)
 * [Terraform Fundamentals](https://www.qwiklabs.com/focuses/1208?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2850927)
-
 
 ##### Assignments
 
-**1. Module Two Discussion**
-
+**1. Module Three Discussion**
 
 * What is IAC and what problem does it solve?
 * How should a company decide on what level of cloud abstraction to use for a project: SaaS, PaaS, IaaS, MaaS, Serverless?
@@ -159,6 +157,7 @@ Respond to 2 other students.
 
 **Respond by** midnight on Sunday
 
+Demo your progress on an individual project or your final project
 
 #### Module 2C: No Code/Low Code Small Data Engineering
 ##### Learning Objectives
@@ -195,7 +194,6 @@ Respond to 2 other students.
 
 * Explain how continuous integration and delivery improves software development speed and quality.
 * Demo the plan for your individual project
-
 
 ##### Readings & Media
 ###### Required Readings
