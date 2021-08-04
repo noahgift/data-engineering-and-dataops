@@ -3,7 +3,8 @@
 Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://noahgift.com)
 
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
-* This is the [course syllabus](https://noahgift.github.io/cloud-data-analysis-at-scale/syllabus).
+* This is the [course syllabus](https://noahgift.github.io/data-engineering-and-dataops).
+* These are the [course projects](https://noahgift.github.io/data-engineering-and-dataops/projects)
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
@@ -103,6 +104,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 Grading and feedback turnaround will be one week from the due date. You will be notified if the turnaround will be longer than one week. 
 
 The discussion forums, written assignments, demo videos, and final project will be graded based on specific criteria or a rubric. The criteria or rubric for each type of assessment will be available in the course. To view the discussion forum rubric, click the gear icon in the upper right corner of the page and choose Show Rubric. The Written Assignment Rubric and Final Project Rubric will automatically appear on the page. 
+
 
 <table>
   <tr>
@@ -365,6 +367,7 @@ Students in this online course should be able to do the following:
 ###### Required Readings
 
 * [Practical MLOps-Appendix-A-Through-H](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app01.html)
+* [Python for DevOps-Chapter12-DevOps-War-Stories](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch16.html#idm46114692695576)
 * [Udemy and the Empire of Skills](https://www.forbes.com/sites/michaelbernick/2018/11/14/udemy-and-the-empire-of-skills/)
 * [It’s time for a C-Level Role dedicated to reskilling workers](https://hbr.org/2019/09/its-time-for-a-c-level-role-dedicated-to-reskilling-workers)  
 * [Exploiting the Unbundling of education](https://www.forbes.com/sites/forbestechcouncil/people/noahgift/#32324ee8f5fb)
@@ -382,17 +385,15 @@ Students in this online course should be able to do the following:
 #### Assignments
 
 #### Week 1
-
-###### Introduction Demo (Due Week 1)
+##### Introduction Demo (Due Week 1)
 
 Create a video to introduce yourself using one of the screencast tools listed in the Getting Started module. Please refer to the instructional and tutorial resources in the Getting Started module to create your video. 
 
 **Post** in Demo Video Discussion by midnight on Wednesday.
 **Respond** to one other student by midnight on Sunday.  
 
-###### Module One Discussion
-
-## Create a life-long learning plan by answering the following questions:
+##### Module One Discussion
+###### Create a life-long learning plan by answering the following questions:
 
 * What skills are you going to learn this quarter, why and how?
 * What skills are you going to learn by the end of this year, why and how?
@@ -412,6 +413,7 @@ Create accounts with ALL of the following FREE online education resources:
 
 * [DataCamp - Data Engineer Track](https://www.datacamp.com/tracks/data-engineer-with-python)
 * [AWS Training & Certification](https://www.aws.training/)
+* [Azure For Students](https://azure.microsoft.com/en-us/free/students/)
 * [AWS Educate](https://www.awseducate.com/educator/s/pathways)
 * [AWS Academy](https://aws.amazon.com/training/awsacademy/)
 * [Google Qwiklabs - Hands-On Cloud Training](https://www.qwiklabs.com/)
@@ -419,7 +421,7 @@ Create accounts with ALL of the following FREE online education resources:
     * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
     * [Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-* [edX Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+* [edX](https://www.edx.org/)
 
 Choose the course offering that starts with the letter closest to the first letter of your last name.  If there is a tie (i.e. AWS Educate and AWS Training), pick which one you want.  Take any course they offer, and demo what you learned in a 1-5 minute video.  Explain how this will help you achieve one of the life-learning goals you set in the previous discussion.
 
@@ -436,7 +438,8 @@ Choose the course offering that starts with the letter closest to the first lett
 ##### Readings & Media
 ###### Required Readings
 
-* [Getting Started](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/)
+* [Cloud Computing For Data: Chapter1-Getting Started](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter01-getting-started/)
+* [Python for DevOps: Chapter9-Cloud Computing Foundations](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#idm46114706789704)
 
 ###### Media
 
