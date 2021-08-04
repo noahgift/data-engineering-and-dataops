@@ -92,7 +92,7 @@ Choose the course offering that starts with the letter closest to the first lett
 
 ###### Media
 
-* * [Coursera Cloud Computing Foundations-Exploring Cloud Onboarding
+* [Coursera Cloud Computing Foundations-Exploring Cloud Onboarding
 -Week3](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/3)
 * [GCP Essentials Qwiklabs](https://www.qwiklabs.com/quests/23?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D)
 * AWS Academy CloudFoundations: Introduction to EC2, Working with EBS, Build your VPC and Launch a Web Server
