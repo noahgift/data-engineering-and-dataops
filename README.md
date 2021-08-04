@@ -5,6 +5,7 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/data-engineering-and-dataops).
 * These are the [course projects](https://noahgift.github.io/data-engineering-and-dataops/projects)
+* This is the [week by week schedule](https://noahgift.github.io/data-engineering-and-dataops/schedule)
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
