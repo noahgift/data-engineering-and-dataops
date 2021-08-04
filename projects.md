@@ -1,3 +1,5 @@
+## Projects
+
 ### Projects (Individual)
 
 There are ten individual project types that can be chosen from.  You must do five of them.  If you are new to programming, and/or a beginning MIDS student, it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
