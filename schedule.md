@@ -132,18 +132,19 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ###### Required Readings
 
 * [Python for DevOps: Chapter9-Cloud Computing Foundations](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#idm46114706789704)
+* [Python for DevOps: Chapter10-Infrastructure as Code](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch10.html#idm46114704805000)
 * [Cloud Computing Foundations](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter02-cloud-foundations/)
 * [Pragmatic AI: Chapter2-AI and ML Toolchain](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch02.xhtml#ch02lev1)
 
 ###### Media
 
-* * [Coursera Cloud Computing Foundations-Evaluating the Cloud Service Model
+* [Coursera Cloud Computing Foundations-Evaluating the Cloud Service Model
 -Week4](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/4)
 * [Terraform Fundamentals](https://www.qwiklabs.com/focuses/1208?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=2850927)
 
 ##### Assignments
 
-**1. Module Three Discussion**
+###### Module Three Discussion
 
 * What is IAC and what problem does it solve?
 * How should a company decide on what level of cloud abstraction to use for a project: SaaS, PaaS, IaaS, MaaS, Serverless?
@@ -159,19 +160,29 @@ Respond to 2 other students.
 
 Demo your progress on an individual project or your final project
 
-#### Module 2C: No Code/Low Code Small Data Engineering
+## [Week 4](#week-4)
+#### Module 4: No Code/Low Code Small Data Engineering with DevOps Best Practices
 ##### Learning Objectives
 
 * Evaluate “small” data engineering approaches
 * Compose solutions to problems without writing code
+* Understand DevOps Best Practices
 
 ##### Readings & Media
 ###### Required Readings
 
+* [Python for DevOps: Chapter2-Automating Files And The Filesystem](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch02.html#idm46114727281720)
+* [Python for DevOps:  Chapter15-Data Engineering](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch15.html#idm46114693461400)
+* [Pragmatic AI:  Chapter 6:  Predicting Social-Media Influence in the NBA](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch06.xhtml#ch06lev1)
+* [Finding Project Management Insights from a GitHub Organization](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/ch08.xhtml#ch08lev1)
 
-* No Code/Low Code Video:  https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/
-* Example Repo:  [https://github.com/noahgift/exploratory-data-analysis](https://github.com/noahgift/exploratory-data-analysis)
+###### Media
 
+* [Coursera Cloud Computing Foundations-Applying DevOps Principles
+-Week5](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/5)
+* [No Code/Low Code Video](https://learning.oreilly.com/videos/no-code-and/62202021VIDEOPAIML/)
+* Example EDA Repo:  [https://github.com/noahgift/exploratory-data-analysis](https://github.com/noahgift/exploratory-data-analysis)
+* [Pragmatic AI Code](https://github.com/noahgift/pragmaticai)
 
 ##### Assignments
 
@@ -179,6 +190,7 @@ Demo your progress on an individual project or your final project
 
 * Why would it be a good idea to write less code in the real world?
 * What is an example of a big data library in Python and what is an example of a small data library in Python and when would you use each one and why?
+* What is DevOps and why should you care?
 
 The required length of post: 500 words
 
