@@ -1,5 +1,6 @@
 ### Week-by-Week-Schedule
 
+## [Week 1](#week-1)
 #### Module 1: Create a life-long learning plan
 ##### Learning Objectives
 
