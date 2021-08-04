@@ -2,7 +2,7 @@
 
 ### Projects (Individual)
 
-There are ten individual project types that can be chosen from.  You must do five of them.  If you are new to programming, and/or a beginning MIDS student, it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
+There are ten individual project types that can be chosen from, although you also can do [any project in the Coursera Course as well](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale).  You must do **five individual projects**.  If you are new to programming, and/or a beginning MIDS student, it is recommended you mostly stick to the label [General].  If you have strong programming skills it is recommended you choose of mixture of [General] and [Advanced].
 
 The deliverables for each project are:
 
