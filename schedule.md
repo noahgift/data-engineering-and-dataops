@@ -111,10 +111,9 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-###### Module Two Demo Video Assignment **
+###### Module Two Demo Video Assignment
 
 Weekly Demo 1-5 minute screencast of your individual project progress
 
