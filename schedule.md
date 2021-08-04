@@ -185,7 +185,7 @@ Demo your progress on an individual project or your final project
 
 ##### Assignments
 
-**1. Module Two Discussion**
+**Module Four Discussion**
 
 * Why would it be a good idea to write less code in the real world?
 * What is an example of a big data library in Python and what is an example of a small data library in Python and when would you use each one and why?
@@ -199,8 +199,8 @@ Respond to 2 other students.
 
 **Respond by** midnight on Sunday
 
-
-#### Module 2D: Project Demo & Continuous Delivery
+## [Week 5](#week-5)
+#### Week 5: Project Demo & Continuous Delivery
 ##### Learning Objectives
 
 * Explain how continuous integration and delivery improves software development speed and quality.
@@ -209,12 +209,12 @@ Respond to 2 other students.
 ##### Readings & Media
 ###### Required Readings
 
-
 * [What is DevOps?](https://aws.amazon.com/devops/what-is-devops/)
 * [Chapter 6, Python for DevOps:  Continuous Integration and Continuous Deployment](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch06.html#CICD)
 * [Blue Green Deployments Whitepaper](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf?did=wp_card&trk=wp_card)
 * [Increase reliability in data science and machine learning projects with CircleCI](https://circleci.com/blog/increase-reliability-in-data-science-and-machine-learning-projects-with-circleci/)
 * [Going faster with Continuous Delivery](https://d1.awsstatic.com/builderslibrary/pdfs/going-faster-with-continuous-delivery.pdf)
+
 
 
 ##### Assignments
