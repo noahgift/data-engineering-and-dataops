@@ -52,7 +52,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 * [Coursera](https://www.coursera.org/)
     * [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) 
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-* [edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+* [edX](https://www.edx.org/)
 * Applied Computer Vision with Python Lectures: [https://learning.oreilly.com/videos/applied-computer-vision/60652VIDEOPAIMLL/](https://learning.oreilly.com/videos/applied-computer-vision/60652VIDEOPAIMLL/)
 * Learn Python in One Hour:  [https://learning.oreilly.com/videos/learn-python-in/60645VIDEOPAIML/](https://learning.oreilly.com/videos/learn-python-in/60645VIDEOPAIML/)
 * Cloud Computing with Python: [https://learning.oreilly.com/videos/cloud-computing-with/60650VIDEOPAIML/](https://learning.oreilly.com/videos/cloud-computing-with/60650VIDEOPAIML/)
