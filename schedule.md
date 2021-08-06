@@ -216,7 +216,6 @@ Respond to 2 other students.
 * [Going faster with Continuous Delivery](https://d1.awsstatic.com/builderslibrary/pdfs/going-faster-with-continuous-delivery.pdf)
 
 
-
 ##### Assignments
 
 **1. Module Two Discussion**
@@ -243,8 +242,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 3: Project Demo & Monitoring and Logging & Data Governance
-
-
 ##### Learning Objectives
 
 
@@ -297,8 +294,6 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 #### Module 4: Project Demo & Testing & CLI Automation
-
-
 ##### Learning Objectives
 
 * Explain how testing plays a critical role in Data Engineering.
