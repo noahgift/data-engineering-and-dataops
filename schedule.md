@@ -115,7 +115,7 @@ Respond to 2 other students.
 
 ###### Module Two Demo Video Assignment
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
 **Respond** to one other student by midnight on Sunday.  
@@ -154,7 +154,6 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
 Demo your progress on an individual project or your final project
@@ -163,7 +162,7 @@ Demo your progress on an individual project or your final project
 #### Module 4: No Code/Low Code Small Data Engineering with DevOps Best Practices
 ##### Learning Objectives
 
-* Evaluate “small” data engineering approaches
+* Evaluate "small" data engineering approaches
 * Compose solutions to problems without writing code
 * Understand DevOps Best Practices
 
@@ -196,7 +195,6 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
 ## [Week 5](#week-5)
@@ -216,12 +214,11 @@ Respond to 2 other students.
 
 ###### Media
 
-* [Coursera Cloud Computing Foundations-Applying DevOps Principles
--Week5](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/5)
+* [Python for DevOps:  Volume 1](https://learning.oreilly.com/videos/python-for-devops/60648VIDEOPAIML/)
 
 ##### Assignments
 
-**1. Module Two Discussion**
+**1. Week 5 Discussion**
 
 * What problems does a continuous delivery system solve?
 * Why is a continuous delivery system an essential part of Data Engineering?
@@ -229,36 +226,30 @@ Respond to 2 other students.
 
 The required length of post: 500 words
 
-Respond to 2 other students. 
+Respond to 2 other students.
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Two Demo Video Assignment **
+**2. Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
 
-#### Module 3: Project Demo & Monitoring and Logging & Data Governance
+## [Week 6](#week-6)
+#### Week 6: Monitoring and Logging 
 ##### Learning Objectives
 
-
 * Explain how monitoring and logging plays a critical role in Data Engineering.
-* Explain how Data Governance plays a critical role in Data Engineering.
 * Demo the progress for your individual project
 
-
 ##### Readings & Media
-
-
 ###### Media
 
-
+* [Coursera:  Getting Started with Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke/home/week/1)
 * Essential Machine Learning and AI with Python and Jupyter Notebook: 3.3 [Understand try/except logging](https://learning.oreilly.com/videos/essential-machine-learning/9780135261118/9780135261118-EMLA_01_03_03) (4 minutes 32 seconds)
 
 
@@ -267,36 +258,31 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 * [Chapter 7, Python for DevOps:  Monitoring and Logging](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch07.html#Monitoring-and-logging)
 * [Implementing health checks](https://d1.awsstatic.com/builderslibrary/pdfs/implementing-health-checks.pdf)
 * [Instrumenting distributed systems for operational visibility](https://d1.awsstatic.com/builderslibrary/pdfs/instrumenting-distributed-systems-for-operational-visibility.pdf)
-* [Data Residency Whitepaper](https://d1.awsstatic.com/whitepapers/compliance/Data_Residency_Whitepaper.pdf)
-* [NIST Cybersecurity Framework Whitepaper](https://d1.awsstatic.com/whitepapers/compliance/NIST_Cybersecurity_Framework_CSF.pdf)
-
+* [Practical MLOps:  Monitoring and Logging](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch06.html)
 
 ##### Assignments
 
-**1. Module Three Discussion**
+**1. Week 6 Discussion**
 
 * Explain how monitoring and logging plays a critical role in Data Engineering.
 * Explain what can go wrong with health checks.
-* Explain why “data governance” is the “unsung hero” of cybersecurity.
 
 The required length of post: 500 words
 
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Three Demo Video Assignment **
+**2. Week 6 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-
-#### Module 4: Project Demo & Testing & CLI Automation
+## [Week 7](#week-7)
+#### Week7: CLI Automation and Testing Python
 ##### Learning Objectives
 
 * Explain how testing plays a critical role in Data Engineering.
@@ -306,17 +292,22 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Readings & Media
 ###### Media
 
-* Datacamp course:  [Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python) (4 hours)
+* [Coursera: CLI Automation](https://www.coursera.org/learn/cloud-data-engineering-duke/home/week/2)
 
 ###### Required Readings
 
 * [Chapter 8, Python for DevOps:  Pytest for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch08.html#idm45505451941256)
 * [Chapter 3, Python for DevOps:  Working with the Command Line](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch03.html)
-
+* [CLI-Automation-Datacamp-part1](https://s3.amazonaws.com/assets.datacamp.com/production/course_16871/slides/chapter1.pdf)
+* [CLI-Automation-Datacamp-part2](https://s3.amazonaws.com/assets.datacamp.com/production/course_16871/slides/chapter2.pdf)
+* [CLI-Automation-Datacamp-part3](https://s3.amazonaws.com/assets.datacamp.com/production/course_16871/slides/chapter3.pdf)
+* [CLI-Automation-Datacamp-part4](https://s3.amazonaws.com/assets.datacamp.com/production/course_16871/slides/chapter4.pdf)
+* [Python CLI Tools Book](https://paiml.com/docs/home/books/python-command-line-tools/)
+* [Chapter 11, Practical MLOps:  Building MLOps Command-line Tools and Microservices](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch11.html#idm45713973310152)
 
 ##### Assignments
 
-**1. Module Four Discussion**
+**1. Week 7 Discussion**
 
 * Explain how testing plays a critical role in Data Engineering.
 * Explain how automation and testing are so closely connected.
@@ -324,48 +315,38 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 Required length of post: 500 words
 
-Respond to 2 other students. 
+Respond to 2 other students.
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Four Demo Video Assignment **
+**2. Week 7 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-
-#### Module 5: Project Demo & Cloud Computing
+## [Week 8](#week-8)
+#### Week8: Building Data Engineering Pipelines
 ##### Learning Objectives
 
-
 * Explain how Cloud Computing is impacting Data Engineering.
-* Explain the pros and cons of the different cloud computing service models.
-* Demo the progress for your individual project
+* Explain the Pros and Cons of the different cloud computing service models.
 
 
 ##### Readings & Media
 ###### Media
 
-* Vocareum Data Analytics Labs:
-    * Store data in Amazon S3
-* YouTube Video-[Learn to translate text automatically with AWS and Python](https://www.youtube.com/watch?v=TaZqirmuBZM) (19 minutes 40 seconds)
-* YouTube Video-[Learn to write AWS Lambda functions in Python](https://www.youtube.com/watch?v=AlRUeNFuObk&t=5s) (3 minutes 52 seconds)
-* YouTube Video-[Learn to launch AWS Deep Learning Spot Instances with AWS Cloud9](https://www.youtube.com/watch?v=tzgzQow5OrE) (7 minutes 52 seconds)
-* YouTube Video-[How to use Amazon S3 Storage](https://www.youtube.com/watch?v=1gauWMpmf_E) (4 minutes 50 seconds)
-
+* [Coursera: Building Data Engineering Pipelines](https://www.coursera.org/learn/cloud-data-engineering-duke/home/week/3)
 
 ###### Required Readings
 
-* [Chapter 9, Python for DevOps:  Cloud Computing](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch09.html#CloudComputing)
+* [Cloud Computing for Data: Serverless ETL](https://paiml.com/docs/home/books/cloud-computing-for-data/chapter06-serverless-etl/)
 
 ##### Assignments
 
-**1. Module Five Discussion**
+**1. Week 8 Discussion**
 
 Explain how Cloud Computing is impacting Data Engineering
 
@@ -374,25 +355,23 @@ Required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
 **2. Module Five Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-#### Module 6: Project Demo & Serverless
+## [Week 9](#week-9)
+#### Week 9: Serverless Technology
 ##### Learning Objectives
 
 
 * Explain how Serverless is impacting Data Engineering
 * Learn AWS Python Lambda
 * Demo the progress for your individual project
-
 
 ##### Readings & Media
 ###### Media
@@ -401,7 +380,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
     * Query Data in Amazon Athena
     * Query data in Amazon S3 with Amazon Athena and AWS Glue
 * [Data Engineering with Python and AWS Lambda LiveLessons](https://learning.oreilly.com/videos/data-engineering-with/9780135964330)
-
+* [Coursera: Applying Key Data Engineering Tasks](https://www.coursera.org/learn/cloud-data-engineering-duke/home/week/4)
 
 ###### Required Readings
 
@@ -410,7 +389,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 
 
 ##### Assignments
-**1. Module Six Discussion**
+**1. Week 9 Discussion**
 
 * Explain how Serverless is impacting Data Engineering.
 * Share a simple Python AWS Lambda function and explain what it does.
@@ -420,17 +399,17 @@ Required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Six Demo Video Assignment **
+**2. Week 9 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
-#### Module 7: Project Demo & MLOps and Machine Learning Engineering
+
+## [Week 10](#week-10)
+#### Week 10: MLOps and Machine Learning Engineering
 ##### Learning Objectives
 
 * Explain what Machine Learning Engineering is
@@ -440,6 +419,7 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 ##### Readings & Media
 ###### Media
 
+* [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/week/1)
 * Vocareum Data Analytics Labs:
     * Analyze Data with Amazon Redshift
     * Analyze Data with Amazon Sagemaker, Jupyter Notebooks and Bokeh
@@ -449,12 +429,12 @@ Weekly Demo 1-5 minute screencast of your individual project progress
 * [Chapter 11, Python for DevOps: Container Technologies](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch11.html#containers-docker)
 * [Chapter 12, Python for DevOps: Container Orchestration](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch12.html#containers-kubernetes)
 * [Chapter 14, Python for DevOps:  MLOps and Machine Learning Engineering](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch14.html#mlengineering)
-* [All Chapters (skim) Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Chapter 7, Practical MLOps:  MLOps for AWS](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/ch07.html#idm45713979750520)
 
 
 ##### Assignments
 
-**1. Module Seven Discussion**
+**1. Week 10 Discussion**
 
 * Explain what Machine Learning Engineering is
 * Create a simple docker file that runs a flask app.  Explain how it works.
@@ -464,146 +444,115 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Seven Demo Video Assignment **
+**2. Week 10 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
-#### Module 8: Project Demo & Data Engineering
+## [Week 11](#week-11)
+#### Week 11: Applied Data Engineering-Foundations
 ##### Learning Objectives
 
-* Explain what Data Engineering is
+* Reinforce your foundational knowledge of cloud computing
 * Demo the progress for your individual project
-
 
 ##### Readings & Media
 ###### Media
 
-* Vocareum Data Analytics Labs:
-    * Automate Loading Data with the AWS Data Pipeline
-    * Analyze Streaming Data with Amazon Kinesis Firehose, Amazon Elasticsearch and Kibana
-    * Analyze IoT Data with AWS IoT Analytics
-
+* Perform all labs in AWS Cloud Foundations that you have not completed
 
 ###### Required Readings
-* [Chapter 15, Python for DevOps:  Data Engineering](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch14.html#mlengineering)
-
 
 ##### Assignments
 
-**1. Module Eight Discussion**
+**1. Week 11 Discussion**
 
-* Explain what Data Engineering is
-* Truncate and shuffle a large dataset, load into pandas and share your work.  Explain the approach you used.
+* Explain key concepts of cloud computing
 
 The required length of post: 500 words
 
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Eight Demo Video Assignment **
+**2. Week 11 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
 
+## [Week 12](#week-12)
+#### Week 12: Applied Data Engineering-Architecting
+##### Learning Objectives
 
-#### Module 9: Project Demo & DevOps & Teamwork
+* Explain how to architect cloud computing solutions
+* Demo the progress for your individual project
+
+##### Readings & Media
+###### Media
+
+* Perform all labs in AWS Cloud Architecting that you have not completed
+
+##### Assignments
+
+**1. Week 12 Discussion**
+
+
+* Explain how cloud architecture works with Data Engineering
+
+The required length of post: 500 words
+
+Respond to 2 other students. 
+
+**Post by** midnight on Wednesday
+**Respond by** midnight on Sunday
+
+**2. Week 12 Demo Video Assignment **
+
+Weekly Demo 1-5 minute screencast of your individual or group project progress
+
+**Post** in Demo Video Discussion by midnight on Friday.
+**Respond** to one other student by midnight on Sunday.  
+
+## [Week 13](#week-13)
+#### Week 13: A
 ##### Learning Objectives
 
 * Explain what DevOps is and how it can be used to enhance a Data Engineering project
 * Explore teamwork
 * Demo the progress for your individual project
 
-
 ##### Readings & Media
 ###### Required Readings
 
-
-* [Chapter 16, Python for DevOps:  DevOps War Stories and Interviews](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch16.html#DevOpsCaseStudies)
-
+* Perform all labs in AWS Data Analytics that you have not completed
 
 ##### Assignments
 
-**1. Module Nine Discussion**
+**1. Week 13 Discussion**
 
 
-* Explain what DevOps is and how it can be used to enhance a Data Engineering project
-* Follow the challenge on pg. 468 and anonymously rate three positive and three negative things about each team member.  Have a meeting to discuss the results.  Share what you learned about yourself. (Note, google docs or google survey could work great for this)
+* Explain how cloud data analytics works at a high-level
 
 The required length of post: 500 words
 
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
-**2. Module Nine Demo Video Assignment **
+**2. Week 13 Demo Video Assignment **
 
-Weekly Demo 1-5 minute screencast of your individual project progress
-
-**Post** in Demo Video Discussion by midnight on Friday.
-
-**Respond** to one other student by midnight on Sunday.  
-
-
-#### Module 10: Project Demo & DevOps & Teamwork
-##### Learning Objectives
-
-
-* Explain what DevOps is and how it can be used to enhance a Data Engineering project
-* Explore teamwork
-* Demo the progress for your individual project
-
-
-##### Readings & Media
-###### Required Readings
-
-
-* [Chapter 16, Python for DevOps:  DevOps War Stories and Interviews](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/ch16.html#DevOpsCaseStudies)
-
-
-##### Assignments
-
-**1. Module Nine Discussion**
-
-
-* Explain what DevOps is and how it can be used to enhance a Data Engineering project
-* Follow the challenge on pg. 468 and anonymously rate three positive and three negative things about each team member.  Have a meeting to discuss the results.  Share what you learned about yourself. (Note, google docs or google survey could work great for this)
-
-The required length of post: 500 words
-
-Respond to 2 other students. 
-
-**Post by** midnight on Wednesday
-
-**Respond by** midnight on Sunday
-
-**2. Module Nine Demo Video Assignment **
-
-Weekly Demo 1-5 minute screencast of your individual project progress
+Weekly Demo 1-5 minute screencast of your individual or group project progress
 
 **Post** in Demo Video Discussion by midnight on Friday.
-
 **Respond** to one other student by midnight on Sunday.  
-
-
-#### Module 11,12,13: Workshop Final Project
-
-* In class demo of team projects (1-5 minute max)
-* Instructor gives feedback, teams improve project then present improvements the following week
 
 
 #### Module 14: Final Project(s) Submission 
@@ -625,6 +574,5 @@ The required length of post: 500 words
 Respond to 2 other students. 
 
 **Post by** midnight on Wednesday
-
 **Respond by** midnight on Sunday
 
