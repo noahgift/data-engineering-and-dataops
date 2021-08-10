@@ -200,11 +200,10 @@ Respond to 2 other students.
 **Respond by** midnight on Sunday
 
 ## [Week 5](#week-5)
-#### Week 5: Project Demo & Continuous Delivery
+#### Week 5: Continuous Integration and Continuous Delivery
 ##### Learning Objectives
 
 * Explain how continuous integration and delivery improves software development speed and quality.
-* Demo the plan for your individual project
 
 ##### Readings & Media
 ###### Required Readings
@@ -215,6 +214,10 @@ Respond to 2 other students.
 * [Increase reliability in data science and machine learning projects with CircleCI](https://circleci.com/blog/increase-reliability-in-data-science-and-machine-learning-projects-with-circleci/)
 * [Going faster with Continuous Delivery](https://d1.awsstatic.com/builderslibrary/pdfs/going-faster-with-continuous-delivery.pdf)
 
+###### Media
+
+* [Coursera Cloud Computing Foundations-Applying DevOps Principles
+-Week5](https://www.coursera.org/learn/cloud-computing-foundations-duke/home/week/5)
 
 ##### Assignments
 
