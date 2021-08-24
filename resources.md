@@ -2,7 +2,7 @@
 
 ## Google
 * *Google Qwiklabs*
-* Google Free Tier
+* [Google Free Tier](https://cloud.google.com/free)
 
 ## AWS
 
