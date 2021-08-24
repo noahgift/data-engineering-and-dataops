@@ -14,7 +14,7 @@
 ## Microsoft 
 
 * Microsoft Learn
-* Microsoft Azure Students
+* [Microsoft Azure Students](https://azure.microsoft.com/en-us/free/students/)
 * Free Credits for Azure
 
 ## Github
