@@ -3,6 +3,7 @@
 ## Google
 * *Google Qwiklabs*
 * [Google Free Tier](https://cloud.google.com/free)
+* [Google For Students](https://cloud.google.com/edu/students?hl=en)
 
 ## AWS
 
