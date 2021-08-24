@@ -1,7 +1,7 @@
 # Resources
 
 ## Google
-* Google Qwiklabs
+* *Google Qwiklabs*
 * Google Free Tier
 
 ## AWS
