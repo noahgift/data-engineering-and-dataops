@@ -79,6 +79,7 @@ Use a cloud SQL solution such GCP Big Query, or AWS Athena to Query a Public Dat
 Reference Reading:
 
 * [BigQuery GIS](https://cloud.google.com/bigquery/docs/gis-getting-started)
+* [SQL Mastery Resources](https://noahgift.github.io/data-engineering-and-dataops/sqlmastery)
 
 
 #### Project #6:  Small Data Engineering NLP and AI APIs with “No Code/Low Code” [General]
