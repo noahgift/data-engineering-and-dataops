@@ -3,6 +3,7 @@
 
 ## Week 1 - Continuous Integration
 
+
 ## Week 2 - Continuous Delivery
 
 ![IMG_6039](https://user-images.githubusercontent.com/58792/131863754-7059322d-b692-461e-9d50-29a7f6286854.JPG)
@@ -12,5 +13,6 @@
 ![IMG_6035](https://user-images.githubusercontent.com/58792/131863766-3b5dea1b-7849-46f5-8741-20d3e78d0534.JPG)
 ![IMG_6034](https://user-images.githubusercontent.com/58792/131863767-978caef6-70c2-423c-9bf0-5ef73bb51b8f.JPG)
 
+[Watch Continuous Delivery Walkthrough of an MLOps Workflow](https://learning.oreilly.com/videos/six-key-elements/609022521VIDEOPAIML/)
 
 
