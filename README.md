@@ -8,6 +8,7 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * This is the [week by week schedule](https://noahgift.github.io/data-engineering-and-dataops/schedule)
 * These are the [resources](https://noahgift.github.io/data-engineering-and-dataops/resources)
 * A guide to [SQL Mastery](https://noahgift.github.io/data-engineering-and-dataops/sqlmastery)
+* [Question and Answer](https://github.com/noahgift/data-engineering-and-dataops/blob/main/question-answer)
 * These are the [lecture notes](https://noahgift.github.io/data-engineering-and-dataops/lecture-notes)
 * Office Hours Via Zoom:  Tuesday 5-7pm recorded
 
