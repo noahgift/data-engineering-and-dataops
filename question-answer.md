@@ -2,6 +2,8 @@
 
 Q:  How do ports and networking work with applications like Flask, FastAPI and AWS.  This is a very confusing topic, clarify for me.
 
+![ports](https://user-images.githubusercontent.com/58792/133345188-ecd40717-2f8f-443f-b658-15f389975444.png)
+
 ### MLOps
 
 Q:  I am a Data Scientist and am learning data engineering to meet market demand. Do I start learning cloud and MLOPs?
