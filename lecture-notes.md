@@ -3,6 +3,8 @@
 
 ## Week 1 - Continuous Integration
 
+* [Github Actions Pytest](https://github.com/noahgift/github-actions-pytest)
+
 ## Week 2 - Continuous Delivery
 
 ![IMG_6039](https://user-images.githubusercontent.com/58792/131863754-7059322d-b692-461e-9d50-29a7f6286854.JPG)
@@ -20,7 +22,7 @@
 
 ## Week 4 - No Code Low Code
 
-
+* [AWS Step Functions](https://github.com/noahgift/aws-step-functions)
 
 
 ## Miscellaneous Projects to Reference
