@@ -1,3 +1,7 @@
+### Cloud
+
+Q:  How do ports and networking work with applications like Flask, FastAPI and AWS.  This is a very confusing topic, clarify for me.
+
 ### MLOps
 
 Q:  I am a Data Scientist and am learning data engineering to meet market demand. Do I start learning cloud and MLOPs?
