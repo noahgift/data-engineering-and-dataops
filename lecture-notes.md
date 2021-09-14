@@ -15,3 +15,14 @@
 [Watch Continuous Delivery Walkthrough of an MLOps Workflow](https://learning.oreilly.com/videos/six-key-elements/609022521VIDEOPAIML/)
 
 ## Week 3 - Continuous Delivery
+
+* [Fast API + AWS App Runner](https://github.com/noahgift/fastapi)
+
+## Week 4 - No Code Low Code
+
+
+
+
+## Miscelleanous Projects to Reference
+
+* [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
