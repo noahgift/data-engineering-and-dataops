@@ -23,6 +23,6 @@
 
 
 
-## Miscelleanous Projects to Reference
+## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
