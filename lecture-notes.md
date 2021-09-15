@@ -23,7 +23,7 @@
 ## Week 4 - No Code Low Code
 
 * [AWS Step Functions](https://github.com/noahgift/aws-step-functions)
-
+* [GCP Cloud Functions](https://github.com/noahgift/gcp-cloud-functions)
 
 ## Miscellaneous Projects to Reference
 
