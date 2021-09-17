@@ -28,7 +28,10 @@
 
 ## Week 5 - Continuous Integration and Continuous Delivery (Guest Speakers on HTTP and SQL)
 
-## Week 6 - Monitoring and Logging
+## Week 6 - Monitoring and Logging (Guest Speakers on Health Care Data Engineering and SQL/Scraping/Azure Onboard)
+
+## Week 7
+
 
 ## Miscellaneous Projects to Reference
 
