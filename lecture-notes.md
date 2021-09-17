@@ -28,6 +28,17 @@
 
 ## Week 5 - Continuous Integration and Continuous Delivery (Guest Speakers on HTTP and SQL)
 
+Name:  [Mario Izquierdo](https://www.linkedin.com/in/mario-izquierdo-a9a17ab/)
+Date: Sept. 20th
+Topic:  HTTP APIs
+Company:  [Twitch](https://www.twitch.tv)
+
+Name:  [Mary Clair Thompson](https://www.linkedin.com/in/mct0006/)
+Date:  Sept. 22nd
+Topic:  SQL + [GCP BigQuery](https://cloud.google.com/bigquery)
+Company:  Duke OIT
+
+
 ## Week 6 - Monitoring and Logging (Guest Speakers on Health Care Data Engineering and SQL/Scraping/Azure Onboard)
 
 ## Week 7
