@@ -24,6 +24,11 @@
 
 * [AWS Step Functions](https://github.com/noahgift/aws-step-functions)
 * [GCP Cloud Functions](https://github.com/noahgift/gcp-cloud-functions)
+* [Function Bike Rider](https://github.com/noahgift/function-bike-rider)
+
+## Week 5 - Continuous Integration and Continuous Delivery (Guest Speakers on HTTP and SQL)
+
+## Week 6 - Monitoring and Logging
 
 ## Miscellaneous Projects to Reference
 
