@@ -17,11 +17,7 @@ Topic: Data Engineering in Health Care Informatics
 Company: Genetech
 
 Name: [Alfredo Deza](https://www.linkedin.com/in/alfredodeza/)
-Date: Sept. 29th
+Date: Sometime October
 Topic: Web Scraping, SQL and Azure Onboarding
 Company: Microsoft
 
-Name:  [Matt Harrison](https://www.linkedin.com/in/panela/)
-Date:  TBD
-Topic:  TBD (Likely Pandas related)
-Company:  Metasnake Consulting
