@@ -41,6 +41,13 @@ Company:  Duke OIT
 
 ## Week 6 - Monitoring and Logging (Guest Speakers on Health Care Data Engineering and SQL/Scraping/Azure Onboard)
 
+![IMG_6158](https://user-images.githubusercontent.com/58792/135350969-b17b60c0-47ed-42b6-a56b-f7ed907870af.JPG)
+![IMG_6157](https://user-images.githubusercontent.com/58792/135350971-afdcf1db-849d-4d70-b784-2f4e21fa008d.JPG)
+![IMG_6156](https://user-images.githubusercontent.com/58792/135350972-a0f87868-afeb-4897-bfc2-962b2503123b.JPG)
+![IMG_6155](https://user-images.githubusercontent.com/58792/135350973-9e89fd9a-13fa-4b04-84e1-5ad2c8800e7a.JPG)
+![IMG_6154](https://user-images.githubusercontent.com/58792/135350975-59fd6995-74f2-450c-b215-4bcb83679f83.JPG)
+
+
 ## Week 7
 
 
