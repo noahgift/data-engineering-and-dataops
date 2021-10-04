@@ -47,8 +47,9 @@ Company:  Duke OIT
 ![IMG_6155](https://user-images.githubusercontent.com/58792/135350973-9e89fd9a-13fa-4b04-84e1-5ad2c8800e7a.JPG)
 ![IMG_6154](https://user-images.githubusercontent.com/58792/135350975-59fd6995-74f2-450c-b215-4bcb83679f83.JPG)
 
+[Lecture on Data Science for Infra](https://learning.oreilly.com/videos/data-science-for/61022021VIDEOPAIML/)
 
-## Week 7
+## Week 7:  CLI
 
 
 ## Miscellaneous Projects to Reference
