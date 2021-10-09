@@ -17,7 +17,7 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
-### Additional Coursera Labs
+### Additional Coursera Labs:  Bash and Linux
 
 * [Coursera-DE-C2-Lab1-Linux](https://github.com/noahgift/coursera-de-c2-lab1-linux)
 * [Coursera-DE-C2-Lab2-Using-Bash](https://github.com/noahgift/Coursera-DE-C2-Lab2-Using-Bash)
