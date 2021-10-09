@@ -55,6 +55,10 @@ Company:  Duke OIT
 * [Github Repo Python For DevOps 10-7](https://github.com/noahgift/devops-10-07)
 * [Python Click Cookbook](https://github.com/noahgift/python-click-cli-cookbook)
 
+## Week 8:  Building Data Engineering Pipelines
+
+
+
 ## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
