@@ -51,6 +51,9 @@ Company:  Duke OIT
 
 ## Week 7:  CLI
 
+* [Python CI/CD for the Command Line](https://learning.oreilly.com/videos/python-ci-cd-for/10092021VIDEOPAIML/10092021VIDEOPAIML-c1_s0/)
+* [Github Repo Python For DevOps 10-7](https://github.com/noahgift/devops-10-07)
+* [Python Click Cookbook](https://github.com/noahgift/python-click-cli-cookbook)
 
 ## Miscellaneous Projects to Reference
 
