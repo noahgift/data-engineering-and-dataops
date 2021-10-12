@@ -57,7 +57,12 @@ Company:  Duke OIT
 
 ## Week 8:  Building Data Engineering Pipelines
 
-
+![IMG_6182](https://user-images.githubusercontent.com/58792/136953848-255f4f77-2101-47b4-ba60-25d81c774caf.JPG)
+![IMG_6181](https://user-images.githubusercontent.com/58792/136953849-65edbd20-9337-48c3-813d-a9e618fe3817.JPG)
+![IMG_6180](https://user-images.githubusercontent.com/58792/136953850-16045dc0-17c3-49a5-aacd-2c329fbc128d.JPG)
+![IMG_6179](https://user-images.githubusercontent.com/58792/136953851-5afef6e8-1a02-42df-a32e-31b865668a66.JPG)
+![IMG_6178](https://user-images.githubusercontent.com/58792/136953852-3ed350b9-cf3a-4c1d-84aa-1ec8c8e4c651.JPG)
+![IMG_6177](https://user-images.githubusercontent.com/58792/136953854-86231a01-1cc3-423e-84e3-d7b8aa8c6d09.JPG)
 
 ## Miscellaneous Projects to Reference
 
