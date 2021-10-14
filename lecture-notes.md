@@ -64,6 +64,14 @@ Company:  Duke OIT
 ![IMG_6178](https://user-images.githubusercontent.com/58792/136953852-3ed350b9-cf3a-4c1d-84aa-1ec8c8e4c651.JPG)
 ![IMG_6177](https://user-images.githubusercontent.com/58792/136953854-86231a01-1cc3-423e-84e3-d7b8aa8c6d09.JPG)
 
+Resources from this week:
+
+* [Step Functions](https://github.com/noahgift/aws-step-functions)
+* [AWS Lambda](https://github.com/noahgift/awslambda)
+* [Getting Started with Data Pipelines O'Reilly Video on Athena and Jenkins](https://learning.oreilly.com/videos/getting-started-with/10132021VIDEOPAIML/10132021VIDEOPAIML-c1_s0/)
+* [Jenkins CI/CD and Github in One Hour](https://learning.oreilly.com/videos/jenkins-ci-cd-and/50106VIDEOPAIML/)
+
+
 ## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
