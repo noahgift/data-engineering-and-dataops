@@ -71,7 +71,7 @@ Resources from this week:
 * [Getting Started with Data Pipelines O'Reilly Video on Athena and Jenkins](https://learning.oreilly.com/videos/getting-started-with/10132021VIDEOPAIML/10132021VIDEOPAIML-c1_s0/)
 * [Jenkins CI/CD and Github in One Hour](https://learning.oreilly.com/videos/jenkins-ci-cd-and/50106VIDEOPAIML/)
 * [Neo4J Russian Trolls Dataset](https://guides.neo4j.com/sandbox/twitter-trolls/index.html)
-
+* [One Size Doesn't Fit All](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 ## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
