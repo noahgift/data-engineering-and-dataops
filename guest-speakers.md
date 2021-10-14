@@ -17,7 +17,7 @@ Topic: Data Engineering in Health Care Informatics
 Company: Genetech
 
 Name: [Alfredo Deza](https://www.linkedin.com/in/alfredodeza/)
-Date: Sometime October
+Date: October 18th
 Topic: Web Scraping, SQL and Azure Onboarding
 Company: Microsoft
 
