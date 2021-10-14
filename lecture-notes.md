@@ -70,7 +70,7 @@ Resources from this week:
 * [AWS Lambda](https://github.com/noahgift/awslambda)
 * [Getting Started with Data Pipelines O'Reilly Video on Athena and Jenkins](https://learning.oreilly.com/videos/getting-started-with/10132021VIDEOPAIML/10132021VIDEOPAIML-c1_s0/)
 * [Jenkins CI/CD and Github in One Hour](https://learning.oreilly.com/videos/jenkins-ci-cd-and/50106VIDEOPAIML/)
-
+* [Neo4J Russian Trolls Dataset](https://guides.neo4j.com/sandbox/twitter-trolls/index.html)
 
 ## Miscellaneous Projects to Reference
 
