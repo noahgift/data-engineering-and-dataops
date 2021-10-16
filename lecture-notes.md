@@ -72,6 +72,11 @@ Resources from this week:
 * [Jenkins CI/CD and Github in One Hour](https://learning.oreilly.com/videos/jenkins-ci-cd-and/50106VIDEOPAIML/)
 * [Neo4J Russian Trolls Dataset](https://guides.neo4j.com/sandbox/twitter-trolls/index.html)
 * [One Size Doesn't Fit All](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
+
+## Week 9:  Serverless Technology
+
+* [Web Scraping](https://github.com/alfredodeza/scraping-demo)
+
 ## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
