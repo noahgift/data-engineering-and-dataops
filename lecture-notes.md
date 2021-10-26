@@ -77,6 +77,17 @@ Resources from this week:
 
 * [Web Scraping](https://github.com/alfredodeza/scraping-demo)
 
+## Week 10:  MLOps
+
+![IMG_6269](https://user-images.githubusercontent.com/58792/138855249-d744543c-0f9a-4af0-a667-233d4981d274.JPG)
+![IMG_6267](https://user-images.githubusercontent.com/58792/138855253-21c4d059-44e7-4db5-9925-9c3ad9ddac83.JPG)
+![IMG_6266](https://user-images.githubusercontent.com/58792/138855254-7e47e4dd-191a-484d-bda1-6935ea2cb5bc.JPG)
+![IMG_6265](https://user-images.githubusercontent.com/58792/138855256-55128f36-3168-4fae-aa99-7aca60ecd50e.JPG)
+![IMG_6264](https://user-images.githubusercontent.com/58792/138855257-e8ddfe65-0f46-463a-ac59-992292bd30f8.JPG)
+![IMG_6263](https://user-images.githubusercontent.com/58792/138855260-3af836b3-fa67-4ccc-9264-dabac21ee05b.JPG)
+
+
+
 ## Miscellaneous Projects to Reference
 
 * [Python Data Engineering Cookbook](https://github.com/noahgift/python-data-engineering-cookbook)
