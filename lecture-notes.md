@@ -77,6 +77,11 @@ Resources from this week:
 
 * [Web Scraping](https://github.com/alfredodeza/scraping-demo)
 
+![IMG_6217](https://user-images.githubusercontent.com/58792/138855562-8a7dab58-e0b9-490e-85e5-35ee60048702.JPG)
+![IMG_6216](https://user-images.githubusercontent.com/58792/138855566-b6a52388-7367-4405-a92f-9c60ae781c8b.JPG)
+![IMG_6215](https://user-images.githubusercontent.com/58792/138855567-c20a9ca7-ba22-4f53-83ce-c70afe971add.JPG)
+
+
 ## Week 10:  MLOps
 
 ![IMG_6269](https://user-images.githubusercontent.com/58792/138855249-d744543c-0f9a-4af0-a667-233d4981d274.JPG)
