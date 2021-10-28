@@ -24,6 +24,10 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 * [Coursera-DE-C2-Lab3-Building-Bash-Scripts](https://github.com/noahgift/Coursera-DE-C2-Lab3-Building-Bash-Scripts)
 * [Coursera-DE-C2-Lab4-Composing-File-Data-Solutions](https://github.com/noahgift/Coursera-DE-C2-Lab4-Composing-File-Data-Solutions)
 
+### AWS Bootcamp
+
+* [AWS Bootcamp](https://github.com/noahgift/aws-bootcamp)
+
 ### Course Description
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
