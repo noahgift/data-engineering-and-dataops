@@ -130,7 +130,7 @@ The discussion forums, written assignments, demo videos, and final project will 
    </td>
   </tr>
   <tr>
-   <td><strong>Individual Projects (2)</strong>
+   <td><strong>Individual Projects (4)</strong>
    </td>
    <td><strong>40%</strong>
    </td>
