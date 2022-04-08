@@ -17,17 +17,6 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
-### Additional Coursera Labs:  Bash and Linux
-
-* [Coursera-DE-C2-Lab1-Linux](https://github.com/noahgift/coursera-de-c2-lab1-linux)
-* [Coursera-DE-C2-Lab2-Using-Bash](https://github.com/noahgift/Coursera-DE-C2-Lab2-Using-Bash)
-* [Coursera-DE-C2-Lab3-Building-Bash-Scripts](https://github.com/noahgift/Coursera-DE-C2-Lab3-Building-Bash-Scripts)
-* [Coursera-DE-C2-Lab4-Composing-File-Data-Solutions](https://github.com/noahgift/Coursera-DE-C2-Lab4-Composing-File-Data-Solutions)
-
-### AWS Bootcamp
-
-* [AWS Bootcamp](https://github.com/noahgift/aws-bootcamp)
-
 ### Course Description
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
@@ -52,14 +41,14 @@ Basic programming skills as well as basic linux skills.  See optional readings/m
 
 As educators and learners, we must share a commitment to diversity and equity, removing barriers to education so that everyone may participate fully in the community. In this course, we respect and embrace the unique experiences that brought each person here, including backgrounds, identities, learning styles, ways of expression, and academic interests. The broad spectrum of perspectives represented by our students enrich everyone’s experiences, and we strive to meet each perspective with openness and respect.
 
-### Required and Optional Readings and Resources 
 #### Required Readings & Media
 
-* [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization])(https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
+* [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
 
 #### Optional Supplementary Readings & Media
 
+* [AWS Bootcamp](https://github.com/noahgift/aws-bootcamp)
 * Gift, N (2020) [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/) Sebastopol, CA: O'Reilly. 
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
