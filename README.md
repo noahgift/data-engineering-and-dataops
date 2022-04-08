@@ -1,6 +1,6 @@
 # Data Engineering and DataOps
 
-Data Engineering and DataOps Course:  IDS 706, Fall 2021 by [Noah Gift](https://noahgift.com)
+Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://noahgift.com)
 
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/data-engineering-and-dataops).
