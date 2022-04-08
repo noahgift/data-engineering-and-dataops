@@ -24,13 +24,12 @@ This course covers servers as a method of encapsulating many courses in the prog
 ## Course Objectives
 
 By the end of the course, you will be able to:
-
-* Develop Data Engineering applications and apply DataOps methodology
-* Use software development best practices to create data engineering applications. These will include continuous deployment, code quality tools, logging, instrumentation, and monitoring.
-* Use cloud-native technologies to perform data engineering.
+* Develop data engineering solutions with a minimal and essential subset of the Python language and the Linux environment
+* Design scripts to connect and query a SQL database using Python
+* Use a scraping library in Python to read, identify and extract data from websites 
+* Setup a provisioned Python project environment
 * Develop non-linear life-long learning skills
 * Build, share and present compelling portfolios using:  Github, YouTube, and Linkedin.
-* Successfully engage in and build a community of like-minded professionals
 * Get Certified both Cloud Computing and a Big Data SQL solution
 
 ### Prerequisites 
