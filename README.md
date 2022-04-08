@@ -55,15 +55,15 @@ As educators and learners, we must share a commitment to diversity and equity, r
 ### Required and Optional Readings and Resources 
 #### Required Readings & Media
 
+* [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization])(https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+
+#### Optional Supplementary Readings & Media
+
 * Gift, N (2020) [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/) Sebastopol, CA: O'Reilly. 
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
 * Gift, N (2021) [Cloud Computing for Data Analysis](https://paiml.com/docs/home/books/cloud-computing-for-data/)
 * Gift, N (2020) [Pragmatic AI:  An Introduction to Cloud-Based Machine Learning](https://learning.oreilly.com/library/view/pragmatic-ai-an/9780134863924/)
-
-#### Supplementary Readings & Media
-
-* [DataCamp - CLI Automation Python](https://www.datacamp.com/courses/command-line-automation-in-python)
 * [AWS Training & Certification](https://www.aws.training/)
 * [AWS Educate](https://www.awseducate.com/educator/s/pathways)
 * [AWS Academy](https://aws.amazon.com/training/awsacademy/)
