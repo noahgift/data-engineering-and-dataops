@@ -47,6 +47,7 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 #### Optional Supplementary Readings & Media
 
+* [Zero to MLOps with Databricks](https://learning.oreilly.com/videos/zero-to-mlops/062592022VIDEOPAIML/)
 * [AWS Bootcamp](https://github.com/noahgift/aws-bootcamp)
 * Gift, N (2020) [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/) Sebastopol, CA: O'Reilly. 
 * Gift, N (2021) [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/), Sebastopol, CA: O'Reilly
