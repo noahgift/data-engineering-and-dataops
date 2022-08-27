@@ -17,6 +17,15 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
+## Weekly Discussion Material
+
+https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app07.html#idm45917434289016 (or any chapter in the book with questions)
+https://learning.oreilly.com/library/view/python-for-devops/9781492057680/
+https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/
+
+Or summarize the key points of the discussion:  https://learning.oreilly.com/videos/enterprise-mlops-interviews/08012022VIDEOPAIML/
+
+
 ### Course Description
 
 This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
