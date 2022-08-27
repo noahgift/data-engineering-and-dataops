@@ -19,9 +19,9 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://
 
 ## Weekly Discussion Material
 
-https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app07.html#idm45917434289016 (or any chapter in the book with questions)
-https://learning.oreilly.com/library/view/python-for-devops/9781492057680/
-https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/
+* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app07.html#idm45917434289016) (or any chapter in the book with questions)
+* [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
+* [Developing on AWS](https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/)
 
 Or summarize the key points of the discussion:  https://learning.oreilly.com/videos/enterprise-mlops-interviews/08012022VIDEOPAIML/
 
