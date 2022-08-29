@@ -12,7 +12,7 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://
 * [Guest Speakers](https://noahgift.github.io/data-engineering-and-dataops/guest-speakers)
 * These are the [lecture notes](https://noahgift.github.io/data-engineering-and-dataops/lecture-notes)
 * Example [community recipes/example student projects](https://github.com/paiml/practical-mlops-book#community-recipes)
-* Notes for [Coursera Course:  Foundations of Data Engineering](https://noahgift.github.io/data-engineering-and-dataops/coursera-foundations-data-engineering/README)
+* Notes for [Coursera Course:  Foundations of Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * Office Hours Via Zoom:  Tuesday 5:30-7:30pm recorded (note I also do a lot of live streaming so check those out too).
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
