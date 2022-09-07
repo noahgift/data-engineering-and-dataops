@@ -1,5 +1,17 @@
 ## Projects
 
+### Generalized Best Practices
+
+
+* README.md is very well polished. (Grammarly, Architectural, Diagram, Key Objectives of Project, Markdown)
+
+#### Notes on Architectural Diagram
+
+* Omnigraffle is pretty good.
+
+![example](https://user-images.githubusercontent.com/58792/188945987-a1643d63-69de-4aff-bc6f-e4f3f84b0845.png)
+
+
 ### Projects (Individual)
 
 There are four individual projects
