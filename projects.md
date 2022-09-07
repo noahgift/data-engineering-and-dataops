@@ -51,6 +51,19 @@ The deliverables for each project are:
 
 #### Project #1: Write a Big Data Script that uses the Pandas API for Spark or Dask
 
+##### Components to build a project:
+
+A. Build a repo in Github
+B. Configure "scaffold":  Makefile, app file (example: streamlit, cli, fastapi), test file
+C. Test with Github Actions
+D. Build a "unit of work", test it with IPython
+E. Build a cli with either Click or Python Fire
+F. Hook up to FastAPI or Streamlit or Gradio
+
+
+
+
+
 ##### Goal:
 
 * Demonstrate you can build a microservice, notebook or command-line tool that talks to a big data system
