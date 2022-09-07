@@ -11,6 +11,26 @@
 
 ![example](https://user-images.githubusercontent.com/58792/188945987-a1643d63-69de-4aff-bc6f-e4f3f84b0845.png)
 
+### Media
+
+* 3-5 minute video (3 is better):  1080p, decent audio, private youtube link (unlisted is ok)
+
+### Content
+
+* Makefile
+* requirements.txt
+* Container config and/or codespace container config
+* Badge for your code like Github Actions Badge
+* Some functional/integration test and/or some loadtest: [locust](https://locust.io/) and [loader.io](https://loader.io/)
+
+### Process
+
+* Run formatting tools
+* Run linting tools:  pylint and pyflake
+* Run human + ai code review
+* Testing and Linting on each push to the repo.
+
+
 
 ### Projects (Individual)
 
