@@ -50,6 +50,27 @@ The deliverables for each project are:
 
 #### Project #1: Write a Big Data Script that uses the Pandas API for Spark or Dask
 
+[Example of Databricks end to end tutorial](https://learning.oreilly.com/videos/doing-mlops-with/062592022VIDEOPAIML/)
+
+##### Targets
+
+* Jupyter/Colab Notebook
+* CLI
+* FastAPI/Flask
+* AWS Lambda
+* Streamlit/Gradio
+
+##### Datasets
+
+* Databricks built in datasets
+* Hugging Face Datasets
+* Kaggle Datasets
+* Azure Open Datasets
+* Your own datasets
+* Anything
+
+
+##### One Example:
 Grab a Kaggle project and convert it to run on Dask or Spark using a Pandas API. It should be portfolio worthy.
 
 #### Project #2:  Bash Command-Line Tool
