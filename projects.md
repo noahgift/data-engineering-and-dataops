@@ -53,12 +53,12 @@ The deliverables for each project are:
 
 ##### Components to build a project:
 
-A. Build a repo in Github
-B. Configure "scaffold":  Makefile, app file (example: streamlit, cli, fastapi), test file
-C. Test with Github Actions
-D. Build a "unit of work", test it with IPython
-E. Build a cli with either Click or Python Fire
-F. Hook up to FastAPI or Streamlit or Gradio
+* A. Build a repo in Github
+* B. Configure "scaffold":  Makefile, app file (example: streamlit, cli, fastapi), test file
+* C. Test with Github Actions
+* D. Build a "unit of work", test it with IPython
+* E. Build a cli with either Click or Python Fire
+* F. Hook up to FastAPI or Streamlit or Gradio
 
 
 
