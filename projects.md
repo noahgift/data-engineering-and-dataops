@@ -51,6 +51,14 @@ The deliverables for each project are:
 
 #### Project #1: Write a Big Data Script that uses the Pandas API for Spark or Dask
 
+##### Goal:
+
+* Demonstrate you can build a microservice, notebook or command-line tool that talks to a big data system
+* Build a very simple system that follows the Microservice philosophy
+* Build a project that demonstrates you are a great hire for an organization that needs to do work with Big Data system
+
+
+
 [Example of Databricks end to end tutorial](https://learning.oreilly.com/videos/doing-mlops-with/062592022VIDEOPAIML/)
 
 ##### Targets
