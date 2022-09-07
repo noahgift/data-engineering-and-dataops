@@ -4,6 +4,7 @@
 
 
 * README.md is very well polished. (Grammarly, Architectural, Diagram, Key Objectives of Project, Markdown)
+* Add a small Jupyter Notebook with an EDA
 
 #### Notes on Architectural Diagram
 
