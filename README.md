@@ -41,6 +41,16 @@ By the end of the course, you will be able to:
 * Build, share and present compelling portfolios using:  Github, YouTube, and Linkedin.
 * Get Certified both Cloud Computing and a Big Data SQL solution
 
+## Special Databricks Lecture by [Mary Clair](https://www.databricks.com/dataaisummit/speaker/mary-clair-thompson)
+
+* 10/31 – Introduction to SQL and BigQuery
+* 11/2 – Introduction to SQL, cont
+* 11/7 – Advanced SQL topics
+* 11/9 – Introduction to Spark and Databricks
+* 11/14 – Databricks and introductory Spark api lab
+* 11/16 – Advanced Spark api lab
+
+
 ### Prerequisites 
 
 Basic programming skills as well as basic linux skills.  See optional readings/media to self-learn before class starts.
