@@ -1,6 +1,6 @@
 # Data Engineering and DataOps
 
-Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://noahgift.com)
+Data Engineering and DataOps Course:  IDS 706, Fall 2023 by [Noah Gift](https://noahgift.com)
 
 * [Contact & Bio](https://datascience.duke.edu/noah-gift)
 * This is the [course syllabus](https://noahgift.github.io/data-engineering-and-dataops).
@@ -9,46 +9,34 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://
 * These are the [resources](https://noahgift.github.io/data-engineering-and-dataops/resources)
 * A guide to [SQL Mastery](https://noahgift.github.io/data-engineering-and-dataops/sqlmastery)
 * [Question and Answer](https://noahgift.github.io/data-engineering-and-dataops/question-answer)
-* [Guest Speakers](https://noahgift.github.io/data-engineering-and-dataops/guest-speakers)
+* [Guest Speakers]
 * These are the [lecture notes](https://noahgift.github.io/data-engineering-and-dataops/lecture-notes)
 * Example [community recipes/example student projects](https://github.com/paiml/practical-mlops-book#community-recipes)
 * Notes for [Coursera Course:  Foundations of Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
-* Office Hours Via Zoom:  After class M/W
+* Office Hours Via Zoom:  After class and Zoom
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
-## Weekly Discussion Material
+## Weekly Rust Mini-Project References
 
-* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/app07.html#idm45917434289016) (or any chapter in the book with questions)
-* [Python for DevOps](https://learning.oreilly.com/library/view/python-for-devops/9781492057680/)
-* [Developing on AWS](https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/)
-
-Or summarize the key points of the discussion:  https://learning.oreilly.com/videos/enterprise-mlops-interviews/08012022VIDEOPAIML/
-
+* [You can see many mini-projects in Rust here:  https://github.com/nogibjj](https://github.com/nogibjj)
 
 ### Course Description
 
-This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices.
+Data Engineering is applied software engineering.  It is not data science, or computer science.  As a result this is focused on building software systems within the domain of data.
+This course covers servers as a method of encapsulating many courses in the program.  Students learn to apply Data Engineering to a real-world project.  This manifests itself through several goals:  development of non-linear life-long learning, community building, portfolio development, and software engineering best practices including using AI Pair Programming assistances, DevOps and Cloud Computing.
 
-## Course Objectives
+## Course Goals
 
-By the end of the course, you will be able to:
-* Develop data engineering solutions with a minimal and essential subset of the Python language and the Linux environment
-* Design scripts to connect and query a SQL database using Python
-* Use a scraping library in Python to read, identify and extract data from websites 
-* Setup a provisioned Python project environment
-* Develop non-linear life-long learning skills
-* Build, share and present compelling portfolios using:  Github, YouTube, and Linkedin.
-* Get Certified both Cloud Computing and a Big Data SQL solution
+Upon course completion, you'll be able to:
 
-## Special Databricks Lecture by [Mary Clair](https://www.databricks.com/dataaisummit/speaker/mary-clair-thompson)
-
-* 10/31 – Introduction to SQL and BigQuery
-* 11/2 – Introduction to SQL, cont
-* 11/7 – Advanced SQL topics
-* 11/9 – Introduction to Spark and Databricks
-* 11/14 – Databricks and introductory Spark api lab
-* 11/16 – Advanced Spark api lab
+* Create data engineering solutions using Rust and the Linux environment.
+* Design binary executables for interfacing with SQL systems such as Snowflake, DataBricks, and BigQuery.
+* Construct robust, efficient, and safe systems with low carbon footprints, leveraging the inherent properties of Rust for scalable efficiency.
+* Use AI Pair Programming tools like GitHub Copilot, ChatGPT, AWS CodeWhisperer, and Google Bard for building sophisticated, reliable systems.
+* Cultivate non-linear, lifelong learning skills.
+* Assemble, share, and present persuasive portfolios using platforms like GitHub, YouTube, and LinkedIn.
+* Obtain certifications in Cloud Computing and a Big Data SQL solution.
 
 
 ### Prerequisites 
@@ -57,12 +45,17 @@ Basic programming skills as well as basic linux skills.  See optional readings/m
 
 ### Diversity Statement
 
-As educators and learners, we must share a commitment to diversity and equity, removing barriers to education so that everyone may participate fully in the community. In this course, we respect and embrace the unique experiences that brought each person here, including backgrounds, identities, learning styles, ways of expression, and academic interests. The broad spectrum of perspectives represented by our students enrich everyone’s experiences, and we strive to meet each perspective with openness and respect.
+We, as educators and students, are dedicated to fostering diversity and equity, ensuring everyone's full participation by eliminating educational obstacles. This course values the diverse experiences, backgrounds, identities, learning styles, and academic interests of each individual. The array of perspectives from our students enriches all, and we aim to approach each with openness and respect.
 
 #### Required Readings & Media
 
-* [Duke+Coursera:  Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
-* [Duke+Coursera:  Cloud Computing for Data Coursera Course](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+The primary resources for this course are the following https://www.coursera.org/instructor/noahgift[Coursera Specializations]:
+
+* [Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+* [Python, Bash, and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
+* [MLOPs (Machine Learning Operations)]
+* [Applied Data Engineering Specialization]
+* [Systems Programming in Rust]
 
 #### Optional Supplementary Readings & Media
 
@@ -91,6 +84,9 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 ##### AWS
 
+* [52 Weeks of AWS](https://learning.oreilly.com/videos/52-weeks-of/080232022VIDEOPAIML/)
+* [AWS Solutions Architect Professional (SAP-C02) 2023](https://learning.oreilly.com/videos/aws-solutions-architect/10082022VIDEOPAIML/)
+* [Developing on AWS with C#](https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/)
 * AWS Cloud Practitioner
     * AWS Certified Cloud Practitioner Video Course: [https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/](https://learning.oreilly.com/videos/aws-certified-cloud/60644VIDEOPAIML/)
     * [https://learning.oreilly.com/library/view/cloud-computing-for/20201229PAIML/](https://learning.oreilly.com/library/view/cloud-computing-for/20201229PAIML/)
@@ -103,10 +99,21 @@ As educators and learners, we must share a commitment to diversity and equity, r
 
 ##### GCP
 
+* [Google Professional Machine Learning Engineer Course 2023](https://learning.oreilly.com/videos/google-professional-machine/03212023VIDEOPAIML/)
+* [Google Professional Cloud Architect Certification Course 2023 (Rough Draft)](https://learning.oreilly.com/videos/google-professional-cloud/03032022VIDEOPAIML/)
 * Building AI Applications with GCP: [https://learning.oreilly.com/videos/building-ai-applications/9780135973462/](https://learning.oreilly.com/videos/building-ai-applications/9780135973462/)
 * Build GCP Cloud Functions:
 
     [https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/](https://learning.oreilly.com/videos/learn-gcp-cloud/50101VIDEOPAIML/) 
+
+##### Rust
+
+* [Switching to Rust from Python](https://learning.oreilly.com/videos/switching-to-rust/01252023VIDEOPAIML/)
+* [Small Rust Tutorial for MLOps](https://nogibjj.github.io/rust-tutorial/)
+
+##### OpenAI
+
+* [Assimilate OpenAI](https://learning.oreilly.com/videos/assimilate-openai/08252022VIDEOPAIML/)
 
 ##### Python
 
@@ -337,49 +344,32 @@ The purpose of the discussion boards is to allow students to freely exchange ide
 
 The quality of your posts and how others view and respond to them are the most valued. A single statement mostly implying “I agree” or “I do not agree” is not counted as a post. Explain, clarify, politely ask for details, provide details, persuade, and enrich communications for a great discussion experience. Please note, there is a requirement to respond to at least two fellow class members’ posts. Also, remember to cite all sources—when relevant—in order to avoid plagiarism.
 
+
+
 #### Online Communication Etiquette
 
-Beyond interacting with your instructor and peers in discussions, you will be expected to communicate by Canvas message, email, and sync session. Your instructor may also make themselves available by phone or text. In all contexts, keep your communication professional and respect the instructor’s posted availability. 
+Beyond interacting with your instructor and peers in discussions, you will be expected to communicate by Teams message, email, and sync session. Your instructor may also make themselves available by phone or text. In all contexts, keep your communication professional and respect the instructor’s posted availability. 
 
 Just as you expect a response when you send a message to your instructor, please respond promptly when your instructor contacts you. Your instructor will expect a response within two business days. This will require that you log into the course site regularly and set up your notifications to inform you when the instructor posts an announcement, provides feedback on work or sends you a message. 
 
 #### Participation and Attendance 
 
-This course will not meet at a particular time each week. All course goals, session learning objectives, and assessments are supported through classroom elements that can be accessed at any time. To measure class participation (or attendance), your participation in threaded discussion boards is required, graded, and paramount to your success in this course. Please note that any scheduled synchronous meetings are optional. While your attendance is highly encouraged, it is not required and you will not be graded on your attendance or participation.
+This course will meet at a particular time each week. Additioanlly, all course goals, session learning objectives, and assessments are supported through classroom elements that can be accessed at any time. To measure class participation (or attendance), your participation in threaded discussion boards is required, graded, and important to your success in this course. Please note that any scheduled synchronous meetings are REQUIRED. 
 
 ### Course Technology
 
-This course will involve a number of different types of interactions. These interactions will take place primarily through Microsoft Teams. Please take the time to navigate through the course and become familiar with the course syllabus, structure, and content and review the list of resources below. 
+This course will involve a number of different types of interactions. These interactions will take place primarily through Microsoft Teams, GitHub and Zoom. Please take the time to navigate through the course and become familiar with the course syllabus, structure, and content and review the list of resources below. 
 
 #### Required Technical Skills
 
 Students in an online program should be able to do the following: 
 
-* Communicate Teams discussion forums.
-* Use web browsers and navigate the World Wide Web.
+* Communicate via Teams discussion forums.
+* Use web browsers and navigate the World Wide Web and use tools like ChatGPT.
 * Use the learning management system Teams.
-* Use Teams
-* Use applications to create documents and presentations (e.g., Microsoft Word, PowerPoint).
-* Use applications to share files (e.g., Box, Google Drive).
+* Use GitHub
+* Create demo videos
+* Write Rust code
+* Use Cloud Computing and Cloud Computing Labs
 
-#### Required Digital Literacy Skills
-
-In order to be successful in an online course, students should be able to locate, evaluate, apply, create, and communicate information using technology. 
-
-Students in this online course should be able to do the following: 
-
-* Create, name, compose, upload, and attach documents.
-* Download, modify, upload, attach document templates.
-* Create, name, design, and upload presentations.
-* Access and download Course Reserve readings; read and review PDF documents.
-* Access and use a digital textbook.
-* Record and upload video taken with a webcam or smartphone.
-* Use the library website for scholarly research tasks.
-* Search the Internet strategically and assess the credibility of Internet sources.
-* Participate in threaded discussions by contributing text responses, uploading images, sharing links.
-* Coordinate remote work with peers, which may include contacting each other by e-mail, phone, video conference, or shared document.
-* Edit and format pages in the course site using a WYSIWIG (What You See is What You Get) editor or basic HTML.
-* Using a quizzing tool to answer multiple choice, true/false, matching, and short response questions within a given time period.
-* Follow directions to engage with a remote proctor by text, webcam, and audio.
-* Use a video player to review content, including pausing and restarting video.
 
