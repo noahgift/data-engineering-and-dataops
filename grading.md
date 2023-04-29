@@ -14,7 +14,7 @@ The discussion forums, written assignments, demo videos, and final project will 
    </td>
   </tr>
   <tr>
-   <td><strong>Weekly Async Discussion & Assignment</strong>
+   <td><strong>Weekly Async Discussion & Rust Mini-Project Assignment</strong>
    </td>
    <td><strong>40%</strong>
    </td>
