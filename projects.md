@@ -44,6 +44,43 @@ There are many ideas you can references in this repo: [Rust MLOps Template](http
 - Run human + ai code review
 - Testing and Linting on each push to the repo.
 
+### Weekly Rust Mini-Projects (Individual)
+
+Scenario: Your company recognizes your expertise in Rust, which you developed through your studies at Duke. They have requested that you build a series of small mini-projects, each taking between one to four hours to complete (i.e., up to half a workday). You will compile all of these Rust projects into a [Rust mdbook repo like this](https://nogibjj.github.io/rust-tutorial/chapter_1.html), where colleagues in your company can browse and learn from the projects.
+
+Requirements:
+
+- No demo video needed for individual projects, just code.
+- Create a new repo for each project.
+- Build one project each week to complete a total of 15 projects.
+- Spend between one to four hours on each project.
+- Each Rust mini-project must be 100% reproducible: i.e., a binary or Docker container with code, and it needs to be runnable (either as a command-line tool or microservice).
+- You can learn from and improve upon other students' mini-projects, but your project must demonstrate an improvement.
+- Fulfill **Universal Project Requirements**.
+
+Topics:
+
+The topics for the mini-projects can fall within the following domains. Each topic is intentionally broad to allow for creativity and innovation in your projects:
+
+1. ONNX Model Deployment with Rust
+2. Machine Learning with Rust and PyTorch
+3. AWS Lambda Functions with Rust (Cargo Lambda)
+4. Azure Serverless Applications with Rust
+5. Deploying Rust Applications on GCP Cloud Run
+6. Building Microservices with Rust
+7. Command-Line Interface (CLI) Tools with Rust
+8. Data Analysis with Rust and Polars
+9. Web Assembly Applications with Rust
+10. Data Streaming and Processing with Rust
+11. Rust and Databases: Interfacing with SQL and NoSQL Systems
+12. Rust and Web Scraping: Data Collection and Extraction
+13. Rust and Cryptography: Secure Data Handling
+14. Rust and Networking: Building Network Applications
+15. Rust and Concurrency: Parallel and Asynchronous Programming
+
+Feel free to explore and experiment within these domains, and create projects that showcase your skills and interests in Rust programming.
+
+
 ### Projects (Individual)
 
 There are four individual projects.  You are required to demo the progress of you building the project each week by doing a demo video.  Since the class is 16 weeks, divide the progress into each demo, i.e. end of Week 1: 25% of Project 1, Week 2: 50% of Project 1, Week 5: 25% of Project 2, etc.
