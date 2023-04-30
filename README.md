@@ -79,7 +79,7 @@ These specializations provide comprehensive coverage of the key concepts and ski
 
 #### Optional Supplementary Readings & Media
 
-- [Optional Supplementary Readings & Media](https://noahgift.github.io/data-engineering-and-dataops/projects)
+- [Optional Supplementary Readings & Media](https://noahgift.github.io/data-engineering-and-dataops/optional-resources)
 
 ### Assignment Overview and Grading Breakdown
 
