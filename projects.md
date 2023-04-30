@@ -28,9 +28,22 @@ There are many ideas you can references in this repo: [Rust MLOps Template](http
 
 #### Notes on Architectural Diagram
 
-- Omnigraffle is pretty good.
+- **Omnigraffle**: This is an excellent tool for creating precise, beautiful graphics. It is only available on macOS, however.
 
-![example](https://user-images.githubusercontent.com/58792/188945987-a1643d63-69de-4aff-bc6f-e4f3f84b0845.png)
+- **Lucidchart**: This is a web-based tool that is quite popular for creating various types of diagrams. It supports real-time collaboration, which can be a significant advantage.
+
+- **Microsoft Visio**: This is a powerful tool that's well-integrated with other Microsoft Office products. It is, however, only available on Windows.
+
+- **draw.io (also known as diagrams.net)**: This is a free, open-source tool for creating diagrams. It's web-based but also offers desktop apps for Windows, macOS, and Linux.
+
+- **Adobe Illustrator**: This is a professional graphic design tool that is capable of creating highly complex diagrams. It may be overkill for some users, but it offers unparalleled control and precision.
+
+- **AutoCAD**: This is a software application for 2D and 3D computer-aided design (CAD) and drafting. It is primarily used in architecture, project management, and engineering.
+
+- **SketchUp**: This is a 3D modeling computer program that offers a suite of drawing applications for architectural, interior design, landscape architecture, civil and mechanical engineering, film, and video game design.
+
+<img src="https://user-images.githubusercontent.com/58792/188945987-a1643d63-69de-4aff-bc6f-e4f3f84b0845.png" alt="example" width="500"/>
+
 
 ### Media
 

@@ -50,6 +50,16 @@ This class is a required class and teaches material that prepares you for a job 
 
 Finally, at the end of class you will have 5 substantial projects, and 15 mini-projects.  This means you will have a robust portfolio of work to share with a future employer.  This amount of work we do in this class is very similar to a real-world job doing software engineering, but you have guard rails of tremendous support from the faculty and TAs at a world class institution.
 
+### Tech Stack
+
+Answers on why this course uses Rust, GitHub Codespaces and Copilot:
+
+* [Sustainability](https://nogibjj.github.io/rust-tutorial/sustainability.html)
+* [What can I do to get the most out of this class?](https://nogibjj.github.io/rust-tutorial/faq.html#what-can-i-do-to-get-the-most-out-of-this-class)
+* [Level up with Rust via GitHub Copilot](https://nogibjj.github.io/rust-tutorial/learn_rust_tips.html#leveling-up-with-rust-via-github-copilot)
+* [Teaching MLOps at Scale (GitHub Universe 2022)](https://nogibjj.github.io/rust-tutorial/learn_rust_tips.html#teaching-mlops-at-scale-github-universe-2022)
+
+
 ### Diversity Statement
 
 We, as educators and students, are dedicated to fostering diversity and equity, ensuring everyone's full participation by eliminating educational obstacles. This course values the diverse experiences, backgrounds, identities, learning styles, and academic interests of each individual. The array of perspectives from our students enriches all, and we aim to approach each with openness and respect.
