@@ -41,7 +41,14 @@ Upon course completion, you'll be able to:
 
 ### Prerequisites
 
-Basic programming skills as well as basic Linux skills. See optional readings/media to self-learn before class starts.
+Basic programming skills as well as basic Linux skills. See optional readings/media to self-learn before class starts.  You will also be required to do a 5-week Rust bootcamp.
+
+### Pedagogy
+
+Expect to spend between 10-20 hours per week in this class including the five-week bootcamp.
+This class is a required class and teaches material that prepares you for a job doing software engineering tasks in the field of data and machine learning.  It is challenging and time-intensive, so please plan Fall schedule accordingly.  The reason this class uses weekly demos is that they are common in the software industry and this class prepares you to hit the ground running in a high-pressure demanding tech job.  Additionally, by doing doing demos you increase your metacognition ability, i.e. you learn what you know and what do you don't know.  Increasing your metacognition skills is a shortcut to mastery in real-world software engineering.
+
+Finally, at the end of class you will have 5 substantial projects, and 15 mini-projects.  This means you will have a robust portfolio of work to share with a future employer.  This amount of work we do in this class is very similar to a real-world job doing software engineering, but you have guard rails of tremendous support from the faculty and TAs at a world class institution.
 
 ### Diversity Statement
 
