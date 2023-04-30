@@ -7,6 +7,7 @@ Data Engineering and DataOps Course: IDS 706, Fall 2023 by [Noah Gift](https://n
 ## Quick Links
 
 - [Contact & Bio](https://datascience.duke.edu/noah-gift)
+- Co-instructors:  [Alfredo Deza](https://www.linkedin.com/in/alfredodeza/) and [Derek Wales](https://www.linkedin.com/in/derek-wales/)
 - [Course Syllabus](https://noahgift.github.io/data-engineering-and-dataops)
 - [Course Projects](https://noahgift.github.io/data-engineering-and-dataops/projects)
 - [Week by Week Schedule](https://noahgift.github.io/data-engineering-and-dataops/schedule)
