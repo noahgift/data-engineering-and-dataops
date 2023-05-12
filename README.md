@@ -15,7 +15,9 @@ Data Engineering and DataOps Course: IDS 706, Fall 2023 by [Noah Gift](https://n
 - [SQL Mastery Guide](https://noahgift.github.io/data-engineering-and-dataops/sqlmastery)
 - [Question and Answer](https://noahgift.github.io/data-engineering-and-dataops/question-answer)
 - [Guest Speakers]
-  * [Maxime DAVID](https://www.linkedin.com/in/maxday/)
+  * [Maxime DAVID @Datadog](https://www.linkedin.com/in/maxday/)
+  * [Matthew Powers @Databricks](https://www.linkedin.com/in/matthew-powers-cfa-6246525/)
+
 - [Lecture Notes](https://noahgift.github.io/data-engineering-and-dataops/lecture-notes)
 - [Community Recipes/Example Student Projects](https://github.com/paiml/practical-mlops-book#community-recipes)
 - [Coursera Course: Foundations of Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
