@@ -461,7 +461,7 @@ Total: 100%
 
 
 * Clear and accurate README with badges: 15 points
-* Proper submission on Microsoft Teams (including pasted version of README): 10 points
+* Proper submission via Microsoft Teams (including pasted version of README): 10 points
 
 T**otal: 100 points**
 
@@ -477,9 +477,9 @@ T**otal: 100 points**
                 * Each student then writes a reflection statement about what they learned they could improve during the final project submission.
             * The final project must include the following criteria to pass:
                 * Demonstrated load-test
-                * README explains project, and includes architectural diagram
+                * The README explains the project and includes an architectural diagram
                 * Must pass test/lint/format in GitHub actions and have badge providing it
-                * Must continuously deploy
+                * Must have continuous deployment
 
                  
 
