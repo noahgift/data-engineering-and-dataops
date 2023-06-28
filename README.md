@@ -3,7 +3,7 @@
 Data Engineering and DataOps Course: IDS 706, Fall 2023 by [Noah Gift](https://noahgift.com)
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
-
+[link to google doc version](https://docs.google.com/document/d/1cdR6ny16-EakwiaYJsoS0bHZQSoaUgIf16nnG-Z466Q/edit?usp=sharing)
 
 **Course Name:**  Data Engineering
 
