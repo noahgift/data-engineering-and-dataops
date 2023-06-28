@@ -4,39 +4,43 @@ Data Engineering and DataOps Course: IDS 706, Fall 2023 by [Noah Gift](https://n
 
 ![maui](https://user-images.githubusercontent.com/58792/128207842-69bc2564-0f67-46e4-8d31-ed0020497034.jpg)
 
-## Quick Links
 
-- [Contact & Bio](https://datascience.duke.edu/noah-gift)
-- Co-instructors:  [Alfredo Deza](https://www.linkedin.com/in/alfredodeza/) and [Derek Wales](https://www.linkedin.com/in/derek-wales/)
-- [Guest Speakers]
-  * [Maxime DAVID @Datadog](https://www.linkedin.com/in/maxday/)
-  * [Matthew Powers @Databricks](https://www.linkedin.com/in/matthew-powers-cfa-6246525/)
 **Course Name:**  Data Engineering
 
 **Term:**  Fall 2023
 
 **Course Description:**
 
-Data Engineering is a crucial discipline in our increasingly data-centric world. Serving as a prerequisite for a career in data and machine learning, this class equips you with the skills necessary to undertake software engineering tasks in a challenging, high-pressure technology environment. The curriculum is designed to mirror real-world job scenarios, therefore requiring a substantial time commitment from you.
+Data Engineering is a crucial discipline in our increasingly data-centric world. Serving as a prerequisite for a data and machine learning career, this class equips you with the skills necessary to undertake software engineering tasks in a challenging, high-pressure technology environment. The curriculum is designed to mirror real-world job scenarios, requiring a substantial time commitment from you.
 
-Throughout the course, you will master the principles of data engineering, which include understanding diverse data types, data storage and management, and data processing to extract valuable insights. You'll gain hands-on experience with various data engineering tools and technologies such as cloud-based data platforms, big data processing frameworks, and data visualization tools. Moreover, you will hone your skills in building and deploying data pipelines, extracting data from diverse sources, transforming data into a desired format, and loading data into a target system.
+Throughout the course, you will master the principles of data engineering, which include understanding diverse data types, data storage and management, and data processing to extract valuable insights. You'll gain hands-on experience with various data engineering tools and technologies, such as cloud-based data platforms, big data processing frameworks, and data visualization tools. Moreover, you will hone your skills in building and deploying data pipelines, extracting data from diverse sources, transforming data into a desired format, and loading data into a target system.
 
-In the domain of data engineering, effective teamwork is a cornerstone, considering the diverse skill sets and expertise within a team. Consequently, this course emphasizes developing your communication, collaboration, and conflict-resolution skills. Furthermore, since the field of data engineering is continuously evolving, the ability to swiftly learn and adopt new technologies and techniques is a key learning objective of the course.
+Effective teamwork is a cornerstone in data engineering, considering the diverse skill sets and expertise within a team. Consequently, this course emphasizes developing communication, collaboration, and conflict-resolution skills. Furthermore, since the field of data engineering is continuously evolving, the ability to swiftly learn and adopt new technologies and techniques is a key learning objective of the course.
 
 To augment the learning experience, the course will engage you in weekly demos, an industry-standard practice that enhances your metacognition abilities. By understanding what you know and identifying areas of improvement, you can fast-track your path to mastery in real-world software engineering.
 
-One of the unique aspects of the course is the emphasis on AI Pair Programming. This approach is designed to raise the difficulty level of projects while mitigating the risk of errors and side-effects. By applying robust DevOps automation, critical thinking skills, and effective teamwork, you can leverage AI Pair Programming to develop complex projects and enhance your learning experience.
+One of the unique aspects of the course is the emphasis on AI Pair Programming. This approach is designed to raise the difficulty level of projects while mitigating the risk of errors and side-effects. You can leverage AI Pair Programming to develop complex projects and enhance your learning experience by applying robust DevOps automation, critical thinking skills, and effective teamwork.
 
-Upon successful completion of the course, you'll have an impressive portfolio, including five substantial projects and 15 mini-projects, which will attest to your readiness to prospective employers. This intensive journey is supported by mentorship from faculty and TAs at a world-class institution, ensuring you're not alone as you tackle these challenges.
+Upon completing the course, you'll have an impressive portfolio, including five substantial projects and 15 mini-projects, which will attest to your readiness to prospective employers. This intensive journey is supported by mentorship from faculty and TAs at a world-class institution, ensuring you're not alone as you tackle these challenges.
+
+**Guest Lecturers (Tentative):**
+
+
+
+* [Mario Rodriguez GitHub](https://www.linkedin.com/in/mariorodriguez3/):  VP Product at GitHub (In Person)
+* [Adi Polak](https://www.linkedin.com/in/polak-adi/): Author of Scaling Machine Learning with Spark (In Person)
+* [Maxim David: ](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAjpb1kB_L2wC6CG9rW546FQdeEfFihouS4&keywords=maxime%20david&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=31734038-0d70-4030-9431-eec58f164d5f&sid=2Jj)Software Engineering Datadog (Remote…possible in person)
+* [Matt Harrison](https://www.linkedin.com/in/panela/): Multiple book O’Reilly author (In Person)
+* [Matthew Powers](https://www.linkedin.com/in/matthew-powers-cfa-6246525/):  Databricks ((Remote)
 
 **Learning Objectives:**
 
 
 
-* Understand the principles of data engineering, including different types of data, storage, management, and data processing for valuable insights.
+* Understand the principles of data engineering, including different data types, storage, management, and data processing for valuable insights.
 * Learn to use data engineering tools and technologies, including cloud-based data platforms, big data processing frameworks, and data visualization tools.
 * Develop skills to build and deploy data pipelines, including extracting data from diverse sources, transforming data into the desired format, and loading data into a target system.
-* Cultivate effective teamwork skills to work in a team environment, mastering effective communication, collaboration, and conflict resolution.
+* Cultivate practical teamwork skills to work in a team environment, mastering effective communication, collaboration, and conflict resolution.
 * Gain proficiency in learning new things quickly to stay up-to-date in the ever-evolving field of data engineering.
 * Enhance your understanding and application of AI Pair Programming, DevOps automation, and critical thinking skills in software engineering projects.
 
@@ -57,16 +61,170 @@ Upon successful completion of the course, you'll have an impressive portfolio, i
 * AWS Academy Learner Labs
 * [Coursera-Rust Bootcamp](https://docs.google.com/document/d/16RHGz3Qj2X5b974eKnjhk6KzLx7E5GWBirNDoLBt1yg/edit?usp=sharing)
 
-**Course Grade**
+                 
+
+
+Weekly Schedule:
+
+Section One:  DevOps
+
+Section Description:
+
+In this section, students will learn the fundamental principles of DevOps and their significance in cloud computing environments. This includes understanding the basics of cloud infrastructure, effective technical communication, and the process of cloud onboarding. Hands-on experience will be gained through the creation of a Python GitHub template and descriptive statistics scripts using Pandas and Polars.
+
+Section Learning Objectives:
 
 
 
-* Project 1: Continuous Integration using GitHub Actions of Python Data Science Project (20%) 
-* Project 2: Rust CLI Binary with SQLite (20%) 
-* Project 3: Databricks ETL (Extract Transform Load) Pipeline (20%) 
-* Project 4: Individual Project (20%) 
-* Team Project (15%) 
-* Class Discussion Grade (5%)
+* Understand the core concepts of DevOps and their role in cloud computing.
+* Learn to communicate in a technical environment effectively.
+* Understand the process of cloud onboarding and the essentials of cloud infrastructure.
+* Develop skills in Python and learn to create a GitHub template.
+* Understand the use of Pandas and Polars for creating descriptive statistics scripts.
+* Week One: Introduction to Cloud Infrastructure and Teamwork
+    * Week Description: The first week serves as an introduction to the essentials of cloud infrastructure, which will form the foundation for all your future cloud-based projects. Alongside this, we'll delve into understanding the fundamental principles of teams and teamwork.
+    * Media and Readings:
+        * Reading:  Chapter One-Teamwork Book:  Toward Understanding Teams and Teamwork 
+        * Reading: [Chap. 6 Developing on AWS with C#-DevOps](https://learning.oreilly.com/library/view/developing-on-aws/9781492095866/ch06.html#idm45778833759568)
+        * Coursera: [Week 5: Applying DevOps Principles](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
+    * Assignments:
+        * Weekly Mini-project 1-Topic:  Create a Python GitHub template you use for the rest of class (Makefile, GitHub Actions, requirements.txt, README.md)
+        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
+* **Week Two: Goal Setting and Effective Technical Communication**
+    * Week Description: This week focuses on the importance of setting clear, ambitious goals as a part of effective teamwork, and how to develop and refine communication skills specifically for technical contexts.
+    * Media and Readings:
+        * Reading:  Chapter Two-Teamwork Book: A Clear, Elevating Goal
+        * Coursera: [Week 2: Developing Effective Technical Communication](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
+    * Assignments:
+        * Weekly Mini-project 2:   Pandas Descriptive Statistics Script
+        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
+* **Week Three: Results-Driven Structure and Cloud Onboarding**
+    * Week Description: In the third week, we will focus on the importance of structuring a team in a way that is driven by results, as well as an introduction to cloud onboarding processes, including its challenges and best practices.
+    * Media and Readings:
+        * Reading:  Chapter Three-Teamwork Book:  Results-Driven Structure
+    * Coursera:  [Week 3: Exploring Cloud Onboarding](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
+    * Assignments:
+        * Individual Project #1 Due
+        * Weekly Mini-project 3:  Polars Descriptive Statistics Script
+        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
+* **Week Four: Competence and DevOps Principles**
+    * Week Description: The fourth week focuses on the importance of having competent team members and how their skills can significantly contribute to achieving team goals. Also, we'll start exploring DevOps principles, an integral part of modern cloud computing practices.
+    * Reading:  Chapter Four-Teamwork Book: Competent Team Members
+    * Weekly Mini-project 4:  Create a GitHub Actions Matrix Build that tests one than one version of Python.
+    * Coursera: [Week 5: Applying DevOps Principles](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
+
+**Section Two:  Building Tools with SQL, Rust, and Python**
+
+Co-Instructor:  Alfredo Deza
+
+ \
+**Section Description:**
+
+In the second section of the course, we move towards hands-on application of the principles learned so far, delving into Python scripting, SQL, and Rust. You will gain experience building tools with these technologies, enhancing your knowledge and skill set.
+
+**Section Learning Objectives:**
+
+
+
+* Understand the application of Python scripting in conjunction with SQL.
+* Learn to create and manage MySQL databases.
+* Understand the principles of Python packaging and the creation of command-line tools.
+* Learn the transition process from Python to Rust, particularly for MLOps and Data Engineering.
+* **Week Five: Python Scripting, SQL, and Fostering Unified Commitment**
+    * Week Description: This week, you'll learn about Python scripting and SQL, integral tools for building robust data applications. We'll also discuss the importance of fostering a unified commitment within a team.
+    * Coursera:  [Week 2: Python Scripting and SQL](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
+    * Reading:  Chapter Five-Teamwork Book: Unified Commitment
+    * Reading:  [One size database doesn’t fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
+    * Reading: [Understanding Availability](https://docs.aws.amazon.com/whitepapers/latest/availability-and-beyond-improving-resilience/understanding-availability.html)
+    * Reading: Learning MySQL, 2nd Edition-Chapter 6-[Transactions and Locking](https://learning.oreilly.com/library/view/learning-mysql-2nd/9781492085911/ch06.html#idm45323456316328)
+    * Mini-Project: Create a Python script that interacts with a SQL database.
+* **Week Six: Advanced SQL and Promoting a Collaborative Climate**
+    * Week Description:  This week is about mastering advanced SQL techniques and understanding how a collaborative climate can significantly impact teamwork
+    * Coursera: [Week 4: Working with MySQL](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
+    * Reading:  Chapter Six-Teamwork Book: Collaborative Climate
+    * Reading:  SQL Pocket Guide, 4th Edition-Chapter1-[SQL Crash Course](https://learning.oreilly.com/library/view/sql-pocket-guide/9781492090397/ch01.html#sql)
+    * Mini-Project: Design a complex SQL query for a MySQL database and explain the results.
+* **Week Seven: Python Packaging, Command Line Tools, and Upholding Standards of Excellence**
+    * Week Description: This week introduces Python packaging and the use of command-line tools. We will also discuss the importance of setting and upholding standards of excellence within a team. 
+    * Coursera:  [Week 4:  Python Packaging and Command Line Tools](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke#syllabus)
+    * Reading:  Chapter Seven-Teamwork Book: Standards of Excellence
+    * Mini-Project: Package a Python script into a command-line tool and write a user guide.
+* **Week Eight: Transitioning from Python to Rust for MLOps and the Role of External Support and Recognition**
+    * Week Description: This week delves into the practical aspects of transitioning from Python to Rust in MLOps. We will also examine the role of external support and recognition in a team's success.
+    * Coursera:  [Week 5:  Rust for MLOps: The Practical Transition from Python to Rust](https://www.coursera.org/learn/devops-dataops-mlops-duke#syllabus)
+    * Reading:  Chapter Eight-Teamwork Book: External Support and Recognition
+    * Mini-Project: Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
+    * Individual Project #2: Rust CLI Binary with SQLite
+
+**Section Three:  Building Data Pipelines**
+
+**Section Description:**
+
+This section delves into the creation and management of data pipelines using various cloud-hosted tools and platforms. The emphasis will be on PySpark, the Databricks Platform, and MLflow, each a critical tool in modern data engineering. Alongside these technical skills, you'll explore principled leadership in teamwork and delve into management dynamics within teams.
+
+**Section Learning Objectives:**
+
+
+
+* Understand the concept and application of data pipelines in data management.
+* Learn to use Cloud-Hosted Notebooks for data processing.
+* Get acquainted with PySpark, its benefits, and how to use it for data processing.
+* Explore the Databricks platform and learn to leverage it for data management.
+* Understand the basics of MLflow and its application in Machine Learning projects.
+* Week Nine: Cloud-Hosted Notebooks and Principled Leadership
+    * Week Description: This week introduces you to the concept of cloud-hosted notebooks and their application in data management. Concurrently, we will discuss the role of principled leadership in successful teamwork.
+    * Coursera:  [Week 2:  Cloud-Hosted Notebooks](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
+    * Reading:  Chapter Nine-Teamwork Book: Principled Leadership
+    * Reading:  Chapter Ten-Teamwork Book: Inside Management Teams
+    * Mini-project 9: Set up a cloud-hosted notebook and demonstrate data manipulation with a sample dataset.
+* Week Ten: Introduction to PySpark and Innovation in Energy and Public Health
+    * Week Description: This week serves as an introduction to PySpark, a powerful tool for large-scale data processing. Also, we will explore the innovations in the energy and public health sectors.
+    * Coursera: [Week 1: Overview and Introduction to PySpark](https://docs.google.com/document/d/1Zis0zIVP5EBvjNhooZD4xr-KCmuETAfP11I6x_n6N3E/edit#heading=h.okv4ihne6via)
+    * Reading:  Intro, Chap. 1,2: How Innovation Works (Energy, Public Health)
+    * Mini-project 10: Use PySpark to perform data processing on a large dataset.
+* Week Eleven:  Using the Databricks Platform
+    * Coursera:  [Week 3:  Week 3: Using the Databricks Platform](https://docs.google.com/document/d/1Zis0zIVP5EBvjNhooZD4xr-KCmuETAfP11I6x_n6N3E/edit#heading=h.x9v9kwht717g)
+    * Week Description: This week, you'll work with the Databricks platform, designed for massive-scale data engineering and collaborative data science.
+    * Mini-project 11: Create a data pipeline using the Databricks platform.
+    * Reading:  Chap. 3,4,5: How Innovation Works (Transport, Food, Low-technology innovation)
+* Week Twelve
+    * Coursera:  [Week 1: Introduction to MLflow](https://www.coursera.org/learn/mlops-mlflow-huggingface-duke#syllabus)
+    * Reading: Chap: 6,7:  How Innovation Works: (Prehistoric innovation, Innovation’s essentials)
+    * Mini-project 12: Use MLflow to manage a simple machine learning project.
+    * Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline
+
+**Section Four:  Building Containerized Serverless Data Pipelines **
+
+**Co-Instructor:  Derek Wales**
+
+
+
+* Week Thirteen:  Virtualization, Containers, and Understanding Innovation Failures
+    * Week Description: This week, we dive into virtualization and containers, crucial components in building serverless data pipelines. We'll also explore various reasons why some innovations fail.
+    * Coursera: Week 2:  [Virtualization and Containers ](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke)
+    * Reading: Chap: 9,10: How Innovation Works: (Fakes, frauds, fads, and failures)
+    * Mini-project 13: Build and deploy a simple containerized application using Docker.
+* Week Fourteen: Python Microservices, Resistance to Innovation
+    * Week Description: You will learn about Python microservices, an architectural style that structures an application as a collection of loosely coupled services. We'll also understand the resistance to innovation and its impacts. 
+    * Coursera:  [Week 3:  Python Microservices](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
+    * Reading: Chap: 11,12: How Innovation Works: (Resistance to innovation, An innovation famine)
+    * Present Final Project in Class
+    * Mini-project 14: Develop a simple microservice using Python and deploy it to a cloud platform
+    * Present Final Project in Class
+
+ **Course Grade**
+
+
+
+* Course Grade:
+* Individual Projects:
+    * Project 1: Continuous Integration using GitHub Actions of Python Data Science Project (6.25%)
+    * Project 2: Rust CLI Binary with SQLite (6.25%)
+    * Project 3: Databricks ETL (Extract Transform Load) Pipeline (6.25%)
+    * Project 4: Individual Project (6.25%)
+* Team Project (25%)
+* Class Discussion Grade (25%)
+* Mini-projects (25%)
 
 **Letter Grades**
 
@@ -252,12 +410,12 @@ Your project should include the following:
 **Total: 100 points**
 
 
-### **Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline**
+## **Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline**
 
 **Lead Instructor: Noah Gift**
 
 
-#### **Requirements**
+### **Requirements**
 
 Your project should include the following:
 
@@ -273,7 +431,7 @@ Your project should include the following:
 * Video Demo: A YouTube link in README.md showing a clear, concise walkthrough and demonstration of your ETL pipeline, including the automated trigger and recommendations to the management team.
 
 
-#### **Grading Rubric**
+### **Grading Rubric**
 
 Your project will be graded on the following criteria:
 
@@ -304,25 +462,25 @@ Your project will be graded on the following criteria:
     * Quality of video and audio (1 point): The video is high-quality and easy to understand.
 
 
-#### Total: 100 points
+### Total: 100 points
 
 **Individual Project #4: Distroless AWS Lambda + Step Functions Data Pipeline**
 
 **Lead Instructor: Derek Wales**
 
 
-### **Requirements**
+## **Requirements**
 
 
 
-* Distroless AWS Lambda: Your project should effectively use Distroless AWS Lambda functions for data processing. This involves including a Dockerfile that uses the Distroless container format. Distroless containers contain only your application and its runtime dependencies. They do not contain package managers, shells or any other programs you would find in a standard Linux distribution.
+* Distroless AWS Lambda: Your project should effectively use Distroless AWS Lambda functions for data processing. This involves including a Dockerfile that uses the Distroless container format. Distroless containers contain only your application and its runtime dependencies. They do not contain package managers, shells or any other programs in a standard Linux distribution.
 * AWS Step Functions: Include AWS Step Functions to orchestrate your data pipeline.
 * Infrastructure as Code (IaC): Use an IaC solution such as AWS CloudFormation, AWS SAM, or AWS CDK for provisioning and managing your AWS resources. The deployment process should be set up as "continuous delivery," meaning it is automatically deployed on changes either through GitHub Actions or AWS CodeBuild.
 * A README.md file: This should clearly explain what the project does, its dependencies, how to run the program, and conclude with actionable and data-driven recommendations to a hypothetical management team.
 * Video Demo: A YouTube link in README.md showing a clear, concise walkthrough and demonstration of your data pipeline, including the automated trigger and recommendations to the management team.
 
 
-### **Grading Rubric**
+## **Grading Rubric**
 
 Your project will be graded on the following criteria:
 
@@ -331,7 +489,7 @@ Your project will be graded on the following criteria:
 * **Distroless AWS Lambda (30 points)**: Your AWS Lambda functions should effectively process data using a distroless runtime. Include a Dockerfile that uses the Distroless container format and passes Hadolint, a Dockerfile linter.
     * Proper usage of distroless AWS Lambda: 15 points
     * Effective data processing: 15 points
-* **AWS Step Functions (30 points)**: Your project should use AWS Step Functions to correctly orchestrate the data pipeline.
+* **AWS Step Functions (30 points)**: Your project should use AWS Step Functions to orchestrate the data pipeline correctly.
     * Correct orchestration of AWS Step Functions: 15 points
     * Effective data pipeline workflow: 15 points
 * **Infrastructure as Code (20 points)**: Use an IaC solution for provisioning and managing your AWS resources. The deployment process should be set up as "continuous delivery."
@@ -346,10 +504,10 @@ Your project will be graded on the following criteria:
     * Quality of video and audio: 4 points
 
 
-### Total: 100 points
+## Total: 100 points
 
 
-### Requirements
+## Requirements
 
 Your team project should include the following:
 
@@ -381,7 +539,7 @@ Your team project should include the following:
     * The team should consist of 3-4 people, ideally composed of 1-2 strong programmers and 1-2 quantitative storytellers.
 
 
-### Grading Rubric
+## Grading Rubric
 
 
 
@@ -423,7 +581,7 @@ Total: 100%
     * Participation is self-reported in a Google sheet:
         * Each class must either note a good point and the name of the student or mention the point made in class
         * The final self-reported Google sheet must have approximately a 50/50 mix of both. See [here for example](https://docs.google.com/spreadsheets/d/1JEE0Jv_81Js5bNRBLa3WG_jl3E-ZPwF9Q-k2KtdQC-Y/edit#gid=0): 
-        * The final grade will follow [Nick Eubanks Rubric and the TAs and Instructor will validate the self-grading ](https://www.google.com/url?q=https://github.com/nickeubank/unifyingdatascience/blob/master/syllabus/Syllabus_UnifyingDataScience.pdf&sa=D&source=docs&ust=1685029531057884&usg=AOvVaw2xJJmcVES_4OiMg4A1QUbY)
+        * The final grade will follow [Nick Eubanks Rubric and the TAs and Instructor will validate the self-grading ](https://github.com/nickeubank/unifyingdatascience/blob/master/syllabus/Syllabus_UnifyingDataScience.pdf)
 * **_Weekly Mini-Project_**
     * 25% of Grade
     * 80%-Python/20%-Rust (Core Language)
@@ -441,7 +599,9 @@ Total: 100%
 * Appropriate project scope and complexity: 10 points
 * The functionality of the tool or service: 15 points
 
-**Language Use (25 points): **Over the course of 15 weeks, 80% of the mini-projects must be developed using only Python, and 20% must be developed using only Rust.
+**Language Use (25 points): **Over 15 weeks, 80% of the mini-projects must be developed
+
+ using only Python, and 20% must be developed using only Rust.
 
 
 
@@ -461,9 +621,9 @@ Total: 100%
 
 
 * Clear and accurate README with badges: 15 points
-* Proper submission via Microsoft Teams (including pasted version of README): 10 points
+* Proper submission on Microsoft Teams (including pasted version of README): 10 points
 
-T**otal: 100 points**
+**Total: 100 points**
 
 
 
@@ -477,153 +637,6 @@ T**otal: 100 points**
                 * Each student then writes a reflection statement about what they learned they could improve during the final project submission.
             * The final project must include the following criteria to pass:
                 * Demonstrated load-test
-                * The README explains the project and includes an architectural diagram
+                * README explains project, and includes architectural diagram
                 * Must pass test/lint/format in GitHub actions and have badge providing it
-                * Must have continuous deployment
-
-                 
-
-
-Weekly Schedule:
-
-Section One:  DevOps
-
-Section Description:
-
-In this section, students will learn the fundamental principles of DevOps and their significance in cloud computing environments. This includes understanding the basics of cloud infrastructure, effective technical communication, and the process of cloud onboarding. Hands-on experience will be gained through the creation of a Python GitHub template and descriptive statistics scripts using Pandas and Polars.
-
-Section Learning Objectives:
-
-
-
-* Understand the core concepts of DevOps and their role in cloud computing.
-* Learn to communicate in a technical environment effectively.
-* Understand the process of cloud onboarding and the essentials of cloud infrastructure.
-* Develop skills in Python and learn to create a GitHub template.
-* Understand the use of Pandas and Polars for creating descriptive statistics scripts.
-* Week One: Introduction to Cloud Infrastructure and Teamwork
-    * Week Description: The first week serves as an introduction to the essentials of cloud infrastructure, which will form the foundation for all your future cloud-based projects. Alongside this, we'll delve into understanding the fundamental principles of teams and teamwork.
-    * Media and Readings:
-        * Reading:  Chapter One-Teamwork Book:  Toward Understanding Teams and Teamwork 
-        * Coursera: [Week 1:  Getting Started with Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
-    * Assignments:
-        * Weekly Mini-project 1-Topic:  Create a Python GitHub template you use for the rest of class (Makefile, GitHub Actions, requirements.txt, README.md)
-        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
-* **Week Two: Goal Setting and Effective Technical Communication**
-    * Week Description: This week focuses on the importance of setting clear, ambitious goals as a part of effective teamwork, and how to develop and refine communication skills specifically for technical contexts.
-    * Media and Readings:
-        * Reading:  Chapter Two-Teamwork Book: A Clear, Elevating Goal
-        * Coursera: [Week 2: Developing Effective Technical Communication](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
-    * Assignments:
-        * Weekly Mini-project 2:   Pandas Descriptive Statistics Script
-        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
-* **Week Three: Results-Driven Structure and Cloud Onboarding**
-    * Week Description: In the third week, we will focus on the importance of structuring a team in a way that is driven by results, as well as an introduction to cloud onboarding processes, including its challenges and best practices.
-    * Media and Readings:
-        * Reading:  Chapter Three-Teamwork Book:  Results-Driven Structure
-    * Coursera:  [Week 3: Exploring Cloud Onboarding](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
-    * Assignments:
-        * Individual Project #1 Due
-        * Weekly Mini-project 3:  Polars Descriptive Statistics Script
-        * Prepare for In class discussion based on media and reading and complete individual discussion spreadsheet
-* **Week Four: Competence and DevOps Principles**
-    * Week Description: The fourth week focuses on the importance of having competent team members and how their skills can significantly contribute to achieving team goals. Also, we'll start exploring DevOps principles, an integral part of modern cloud computing practices.
-    * Reading:  Chapter Four-Teamwork Book: Competent Team Members
-    * Weekly Mini-project 4:  Create a GitHub Actions Matrix Build that tests one than one version of Python.
-    * Coursera: [Week 5: Applying DevOps Principles](https://www.coursera.org/learn/cloud-computing-foundations-duke#syllabus)
-
-**Section Two:  Building Tools with SQL, Rust, and Python**
-
-Co-Instructor:  Alfredo Deza
-
- \
-**Section Description:**
-
-In the second section of the course, we move towards hands-on application of the principles learned so far, delving into Python scripting, SQL, and Rust. You will gain experience building tools with these technologies, enhancing your knowledge and skill set.
-
-**Section Learning Objectives:**
-
-
-
-* Understand the application of Python scripting in conjunction with SQL.
-* Learn to create and manage MySQL databases.
-* Understand the principles of Python packaging and the creation of command-line tools.
-* Learn the transition process from Python to Rust, particularly for MLOps and Data Engineering.
-* **Week Five: Python Scripting, SQL, and Fostering Unified Commitment**
-    * Week Description: This week, you'll learn about Python scripting and SQL, integral tools for building robust data applications. We'll also discuss the importance of fostering a unified commitment within a team.
-    * Coursera:  [Week 2: Python Scripting and SQL](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
-    * Reading:  Chapter Five-Teamwork Book: Unified Commitment
-    * Mini-Project: Create a Python script that interacts with a SQL database.
-* **Week Six: Advanced SQL and Promoting a Collaborative Climate**
-    * Week Description:  This week is about mastering advanced SQL techniques and understanding how a collaborative climate can significantly impact teamwork
-    * Coursera: [Week 4: Working with MySQL](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
-    * Reading:  Chapter Six-Teamwork Book: Collaborative Climate
-    * Mini-Project: Design a complex SQL query for a MySQL database and explain the results.
-* **Week Seven: Python Packaging, Command Line Tools, and Upholding Standards of Excellence**
-    * Week Description: This week introduces Python packaging and the use of command-line tools. We will also discuss the importance of setting and upholding standards of excellence within a team. 
-    * Coursera:  [Week 4:  Python Packaging and Command Line Tools](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke#syllabus)
-    * Reading:  Chapter Seven-Teamwork Book: Standards of Excellence
-    * Mini-Project: Package a Python script into a command-line tool and write a user guide.
-* **Week Eight: Transitioning from Python to Rust for MLOps and the Role of External Support and Recognition**
-    * Week Description: This week delves into the practical aspects of transitioning from Python to Rust in MLOps. We will also examine the role of external support and recognition in a team's success.
-    * Coursera:  [Week 5:  Rust for MLOps: The Practical Transition from Python to Rust](https://www.coursera.org/learn/devops-dataops-mlops-duke#syllabus)
-    * Reading:  Chapter Eight-Teamwork Book: External Support and Recognition
-    * Mini-Project: Rewrite a Python script for data processing in Rust, highlighting the improvements in speed and resource usage.
-    * Individual Project #2: Rust CLI Binary with SQLite
-
-**Section Three:  Building Data Pipelines**
-
-**Section Description:**
-
-This section delves into the creation and management of data pipelines using various cloud-hosted tools and platforms. The emphasis will be on PySpark, the Databricks Platform, and MLflow, each a critical tool in modern data engineering. Alongside these technical skills, you'll explore principled leadership in teamwork and delve into management dynamics within teams.
-
-**Section Learning Objectives:**
-
-
-
-* Understand the concept and application of data pipelines in data management.
-* Learn to use Cloud-Hosted Notebooks for data processing.
-* Get acquainted with PySpark, its benefits, and how to use it for data processing.
-* Explore the Databricks platform and learn to leverage it for data management.
-* Understand the basics of MLflow and its application in Machine Learning projects.
-* Week Nine: Cloud-Hosted Notebooks and Principled Leadership
-    * Week Description: This week introduces you to the concept of cloud-hosted notebooks and their application in data management. Concurrently, we will discuss the role of principled leadership in successful teamwork.
-    * Coursera:  [Week 2:  Cloud-Hosted Notebooks](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
-    * Reading:  Chapter Nine-Teamwork Book: Principled Leadership
-    * Reading:  Chapter Ten-Teamwork Book: Inside Management Teams
-    * Mini-project 9: Set up a cloud-hosted notebook and demonstrate data manipulation with a sample dataset.
-* Week Ten: Introduction to PySpark and Innovation in Energy and Public Health
-    * Week Description: This week serves as an introduction to PySpark, a powerful tool for large-scale data processing. Also, we will explore the innovations in the energy and public health sectors.
-    * Coursera: [Week 1: Overview and Introduction to PySpark](https://docs.google.com/document/d/1Zis0zIVP5EBvjNhooZD4xr-KCmuETAfP11I6x_n6N3E/edit#heading=h.okv4ihne6via)
-    * Reading:  Intro, Chap. 1,2: How Innovation Works (Energy, Public Health)
-    * Mini-project 10: Use PySpark to perform data processing on a large dataset.
-* Week Eleven:  Using the Databricks Platform
-    * Coursera:  [Week 3:  Week 3: Using the Databricks Platform](https://docs.google.com/document/d/1Zis0zIVP5EBvjNhooZD4xr-KCmuETAfP11I6x_n6N3E/edit#heading=h.x9v9kwht717g)
-    * Week Description: This week, you'll work with the Databricks platform, designed for massive-scale data engineering and collaborative data science.
-    * Mini-project 11: Create a data pipeline using the Databricks platform.
-    * Reading:  Chap. 3,4,5: How Innovation Works (Transport, Food, Low-technology innovation)
-* Week Twelve
-    * Coursera:  [Week 1: Introduction to MLflow](https://www.coursera.org/learn/mlops-mlflow-huggingface-duke#syllabus)
-    * Reading: Chap: 6,7:  How Innovation Works: (Prehistoric innovation, Innovation’s essentials)
-    * Mini-project 12: Use MLflow to manage a simple machine learning project.
-    * Individual Project #3: Databricks ETL (Extract Transform Load) Pipeline
-
-**Section Four:  Building Containerized Serverless Data Pipelines **
-
-**Co-Instructor:  Derek Wales**
-
-
-
-* Week Thirteen:  Virtualization, Containers, and Understanding Innovation Failures
-    * Week Description: This week, we dive into the world of virtualization and containers, crucial components in building serverless data pipelines. We'll also explore various reasons why some innovations fail.
-    * Coursera: Week 2:  [Virtualization and Containers ](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke)
-    * Reading: Chap: 9,10: How Innovation Works: (Fakes, frauds, fads, and failures)
-* Week Fourteen: Python Microservices and Resistance to Innovation
-    * Week Description: You will learn about Python microservices, an architectural style that structures an application as a collection of loosely coupled services. We'll also understand the resistance to innovation and its impacts. 
-    * Coursera:  [Week 3:  Python Microservices](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke)
-    * Reading: Chap: 11,12: How Innovation Works: (Resistance to innovation, An innovation famine)
-* Week Fifteen: Operational Pipelines and Final Project Presentation
-    *  This week, we will discuss different types of operational pipelines like DevOps, DataOps, and MLOps. This week also includes the final project presentation.
-    * Media and Readings:
-    * Coursera:  [Week 3: Operations Pipelines: DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke)
-    * Present Final Project in Class
+                * Must continuously deploy
